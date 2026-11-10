@@ -1,0 +1,68 @@
+name: Build & Release English Patch
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'data/**'
+      - 'assets/**'
+      - 'src/**'
+      - 'build.js'
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 1. Restore clean ROM from GitHub Secrets (CLEAN_ROM_BASE64)
+      - name: Restore Clean Japanese ROM
+        env:
+          CLEAN_ROM_B64: ${{ secrets.CLEAN_ROM_BASE64 }}
+        run: |
+          if [ -n "$CLEAN_ROM_B64" ]; then
+            echo "$CLEAN_ROM_B64" | base64 -d > "Meitantei Conan - Nerawareta Tantei.gba"
+            echo "Clean ROM successfully restored."
+          else
+            echo "::warning ::CLEAN_ROM_BASE64 secret not found. Checking if ROM exists in workspace..."
+          fi
+
+      # 2. Build English ROM, verify 24/24 checks, audit LZ77, and generate BPS patches
+      - name: Build English ROM and Generate BPS Patches
+        if: hashFiles('Meitantei Conan - Nerawareta Tantei.gba') != ''
+        run: |
+          node build.js "Meitantei Conan - Nerawareta Tantei.gba"
+
+      # 3. Commit updated patches back to git so the repo always holds the latest patch
+      - name: Auto-commit updated patches to repository
+        if: (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') && hashFiles('patch/*.bps') != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add patch/*.bps
+          git diff --staged --quiet || (git commit -m "Auto-update English translation patches [skip ci]" && git push)
+
+      # 4. Upload GitHub Workflow Artifacts (available on every build)
+      - name: Upload BPS Patch Artifacts
+        if: hashFiles('patch/*.bps') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: Detective_Conan_English_Patches
+          path: |
+            patch/Meitantei Conan - Nerawareta Tantei.bps
+            patch/Detective_Conan_Nerawareta_Tantei_English_v1.0.bps

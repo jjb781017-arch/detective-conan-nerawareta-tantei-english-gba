@@ -1,0 +1,2122 @@
+[
+  {
+    "index": 1,
+    "offset": "0xf274",
+    "endOffset": "0xf284",
+    "wrapper": "0x12",
+    "japanese": "(オイオイ……)",
+    "english": "Come on..."
+  },
+  {
+    "index": 2,
+    "offset": "0xfe2a",
+    "endOffset": "0xfe58",
+    "wrapper": "0x12",
+    "japanese": "(全ての事件が\n 未解決のまま消えてしまった)",
+    "english": "Every case\nvanished, left unsolved."
+  },
+  {
+    "index": 3,
+    "offset": "0xfe5a",
+    "endOffset": "0xfe8e",
+    "wrapper": "0x12",
+    "japanese": "(滅の窃盗団(せっとうだん)\n スフィンクスか……)",
+    "english": "The mysterious gang\nof thieves, Sphinx..."
+  },
+  {
+    "index": 4,
+    "offset": "0xfea8",
+    "endOffset": "0xfec6",
+    "wrapper": "0x12",
+    "japanese": "(だが……いったいどうして?)",
+    "english": "But... why on earth?"
+  },
+  {
+    "index": 5,
+    "offset": "0x10c52",
+    "endOffset": "0x10c66",
+    "wrapper": "0x12",
+    "japanese": "(わからないな……)",
+    "english": "I don't get it..."
+  },
+  {
+    "index": 6,
+    "offset": "0x10e8c",
+    "endOffset": "0x10e98",
+    "wrapper": "0x12",
+    "japanese": "(さむ……)",
+    "english": "Cold..."
+  },
+  {
+    "index": 7,
+    "offset": "0x10eb2",
+    "endOffset": "0x10ed8",
+    "wrapper": "0xff02",
+    "japanese": "\n          第1シナリオ終了",
+    "english": "\n          SCENARIO 1 CLEAR"
+  },
+  {
+    "index": 8,
+    "offset": "0x111e8",
+    "endOffset": "0x111f8",
+    "wrapper": "0x12",
+    "japanese": "(オイオイ……)",
+    "english": "Come on..."
+  },
+  {
+    "index": 9,
+    "offset": "0x11978",
+    "endOffset": "0x119a6",
+    "wrapper": "0x1c",
+    "japanese": "「高い位置のレーザーを」\n  ぬけるには……」",
+    "english": "To avoid\nthe high lasers…"
+  },
+  {
+    "index": 10,
+    "offset": "0x11d3c",
+    "endOffset": "0x11d4c",
+    "wrapper": "0x12",
+    "japanese": "(オイオイ……)",
+    "english": "Come on..."
+  },
+  {
+    "index": 11,
+    "offset": "0x12518",
+    "endOffset": "0x1254a",
+    "wrapper": "0x12",
+    "japanese": "(あれか。オレの小包を\n 預かってるロボってのは)",
+    "english": "So that's the robot\nholding my package."
+  },
+  {
+    "index": 12,
+    "offset": "0x1276a",
+    "endOffset": "0x1279e",
+    "wrapper": "0x12",
+    "japanese": "(そんな簡単なロボットに\n 小包を預けたのかよ……)",
+    "english": "You left my package\nwith a simple robot..."
+  },
+  {
+    "index": 13,
+    "offset": "0x12b36",
+    "endOffset": "0x12b60",
+    "wrapper": "0x12",
+    "japanese": "(オレがもらった招待状と\n 一緒だな……)",
+    "english": "Same as the invitation\nI got..."
+  },
+  {
+    "index": 14,
+    "offset": "0x12cd2",
+    "endOffset": "0x12ce8",
+    "wrapper": "0x12",
+    "japanese": "(猿型ロボットか……)",
+    "english": "A monkey robot..."
+  },
+  {
+    "index": 15,
+    "offset": "0x13176",
+    "endOffset": "0x131a4",
+    "wrapper": "0x12",
+    "japanese": "(それにしても……\n どういう招待客なんだ?)",
+    "english": "Still... who are\nthese guests?"
+  },
+  {
+    "index": 16,
+    "offset": "0x131a6",
+    "endOffset": "0x131d8",
+    "wrapper": "0x12",
+    "japanese": "(どっかで見たことあるような\n 人達ばかりだ……)",
+    "english": "They all look familiar\nsomehow..."
+  },
+  {
+    "index": 17,
+    "offset": "0x131e2",
+    "endOffset": "0x131f4",
+    "wrapper": "0x12",
+    "japanese": "(どこだっけ……)",
+    "english": "Where was it...?"
+  },
+  {
+    "index": 18,
+    "offset": "0x1326c",
+    "endOffset": "0x1328e",
+    "wrapper": "0x12",
+    "japanese": "(そう、探偵……って\n{ff08}{5a} え?)",
+    "english": "Right—detectives...\nwait, what?"
+  },
+  {
+    "index": 19,
+    "offset": "0x1345e",
+    "endOffset": "0x1346c",
+    "wrapper": "0x12",
+    "japanese": "(ふーん……)",
+    "english": "Hmm..."
+  },
+  {
+    "index": 20,
+    "offset": "0x13550",
+    "endOffset": "0x13562",
+    "wrapper": "0x12",
+    "japanese": "(おっちゃん!?)",
+    "english": "Old man!?"
+  },
+  {
+    "index": 21,
+    "offset": "0x13a10",
+    "endOffset": "0x13a42",
+    "wrapper": "0x12",
+    "japanese": "(招待状にスフィンクスの\n 名前を使ったのも……)",
+    "english": "Using the Sphinx's name\non the invitations..."
+  },
+  {
+    "index": 22,
+    "offset": "0x13a44",
+    "endOffset": "0x13a6e",
+    "wrapper": "0x12",
+    "japanese": "(探偵を集めるために\n 招待した事も……)",
+    "english": "And inviting us all\nto gather detectives..."
+  },
+  {
+    "index": 23,
+    "offset": "0x13a70",
+    "endOffset": "0x13aa4",
+    "wrapper": "0x12",
+    "japanese": "(全部このテーマパークの\n 宣伝だったって事か……)",
+    "english": "So it was all just\npromo for this park..."
+  },
+  {
+    "index": 24,
+    "offset": "0x13ab0",
+    "endOffset": "0x13ada",
+    "wrapper": "0x12",
+    "japanese": "(どおりで、案内の人が\n うたがうワケだ)",
+    "english": "No wonder the guide\nwas so suspicious."
+  },
+  {
+    "index": 25,
+    "offset": "0x13adc",
+    "endOffset": "0x13b02",
+    "wrapper": "0x12",
+    "japanese": "(小学生の探偵なんて\n いないからな)",
+    "english": "There's no such\nthing as a kid detective."
+  },
+  {
+    "index": 26,
+    "offset": "0x1428a",
+    "endOffset": "0x142a2",
+    "wrapper": "0x12",
+    "japanese": "(だったら言うなよ……)",
+    "english": "Then don't say it..."
+  },
+  {
+    "index": 27,
+    "offset": "0x14aa0",
+    "endOffset": "0x14aba",
+    "wrapper": "0x12",
+    "japanese": "(大丈夫かな……あの2人)",
+    "english": "Will those two\nbe all right...?"
+  },
+  {
+    "index": 28,
+    "offset": "0x15188",
+    "endOffset": "0x151b4",
+    "wrapper": "0x12",
+    "japanese": "(みたい……じゃなくて\n あれは本物だ……)",
+    "english": "It's not a fake...\nthat gun is real..."
+  },
+  {
+    "index": 29,
+    "offset": "0x151b6",
+    "endOffset": "0x151e2",
+    "wrapper": "0x12",
+    "japanese": "(モデルガンなら\n 銃口はふさがっているし)",
+    "english": "A model gun would\nhave a blocked muzzle."
+  },
+  {
+    "index": 30,
+    "offset": "0x151e4",
+    "endOffset": "0x15204",
+    "wrapper": "0x12",
+    "japanese": "(エアガンの銃口はもっと小さい)",
+    "english": "Airsoft muzzles\nare smaller."
+  },
+  {
+    "index": 31,
+    "offset": "0x1535c",
+    "endOffset": "0x1537e",
+    "wrapper": "0x12",
+    "japanese": "(あれは……\n リドルカード!!)",
+    "english": "That's...\na Riddle Card!!"
+  },
+  {
+    "index": 32,
+    "offset": "0x155e0",
+    "endOffset": "0x155fc",
+    "wrapper": "0x12",
+    "japanese": "(おっちゃん……マズイぜ!)",
+    "english": "Old man... this\nis bad!"
+  },
+  {
+    "index": 33,
+    "offset": "0x1565e",
+    "endOffset": "0x1568a",
+    "wrapper": "0x12",
+    "japanese": "(よし!おっちゃんは眠らせた\n ……あとは)",
+    "english": "Good! The old man's\nasleep. Now then..."
+  },
+  {
+    "index": 34,
+    "offset": "0x156d2",
+    "endOffset": "0x156f0",
+    "wrapper": "0x12",
+    "japanese": "(この問題をとくだけだな……)",
+    "english": "Now I just solve\nthis puzzle..."
+  },
+  {
+    "index": 35,
+    "offset": "0x15d54",
+    "endOffset": "0x15d84",
+    "wrapper": "0x12",
+    "japanese": "(ここは、本当にただの\n テーマパークなのか?)",
+    "english": "Is this really just\na theme park?"
+  },
+  {
+    "index": 36,
+    "offset": "0x15d86",
+    "endOffset": "0x15da6",
+    "wrapper": "0x12",
+    "japanese": "(いや……\n そんなわけはない)",
+    "english": "No...\nthat can't be."
+  },
+  {
+    "index": 37,
+    "offset": "0x15da8",
+    "endOffset": "0x15dce",
+    "wrapper": "0x12",
+    "japanese": "(招待状にしるされた\n 滅の暗号……)",
+    "english": "The riddle code\nwritten on the invitation..."
+  },
+  {
+    "index": 38,
+    "offset": "0x15dd0",
+    "endOffset": "0x15de8",
+    "wrapper": "0x12",
+    "japanese": "(そして消えた拳銃……)",
+    "english": "The gun vanished..."
+  },
+  {
+    "index": 39,
+    "offset": "0x15dea",
+    "endOffset": "0x15e14",
+    "wrapper": "0x12",
+    "japanese": "(誰かが何かの目的で\n 探偵をためした?)",
+    "english": "Did someone test us\ndetectives on purpose?"
+  },
+  {
+    "index": 40,
+    "offset": "0x15e16",
+    "endOffset": "0x15e34",
+    "wrapper": "0x12",
+    "japanese": "(しかし、一体何のために……)",
+    "english": "But what on earth\nfor...?"
+  },
+  {
+    "index": 41,
+    "offset": "0x15f3e",
+    "endOffset": "0x15f50",
+    "wrapper": "0x12",
+    "japanese": "(ま、いいか……)",
+    "english": "Well, whatever..."
+  },
+  {
+    "index": 42,
+    "offset": "0x15fb6",
+    "endOffset": "0x15fdc",
+    "wrapper": "0xff02",
+    "japanese": "\n          第2シナリオ終了",
+    "english": "\n          SCENARIO 2 CLEAR"
+  },
+  {
+    "index": 43,
+    "offset": "0x172a2",
+    "endOffset": "0x172cc",
+    "wrapper": "0x12",
+    "japanese": "(よし!おっちゃんは眠らせた\n……あとは)",
+    "english": "Good! The old man's\nasleep. Now then..."
+  },
+  {
+    "index": 44,
+    "offset": "0x172e4",
+    "endOffset": "0x17302",
+    "wrapper": "0x12",
+    "japanese": "(この問題を解くだけだな……)",
+    "english": "I just have to solve\nthis puzzle..."
+  },
+  {
+    "index": 45,
+    "offset": "0x17c7c",
+    "endOffset": "0x17cac",
+    "wrapper": "0x12",
+    "japanese": "(話してもしょうがねーんじゃ\n なかったのかよ)",
+    "english": "Didn't you say talking\nwas pointless?"
+  },
+  {
+    "index": 46,
+    "offset": "0x17e08",
+    "endOffset": "0x17e1a",
+    "wrapper": "0x12",
+    "japanese": "(ハハハハハ……)",
+    "english": "Hahahaha..."
+  },
+  {
+    "index": 47,
+    "offset": "0x181d2",
+    "endOffset": "0x181ee",
+    "wrapper": "0x12",
+    "japanese": "(こいつでも落ちこむのかよ)",
+    "english": "Even this guy\ngets down?"
+  },
+  {
+    "index": 48,
+    "offset": "0x18542",
+    "endOffset": "0x1856a",
+    "wrapper": "0x12",
+    "japanese": "(オイオイ……\n 何でこうなるんだ……)",
+    "english": "Come on... why\ndoes it always end up so...?"
+  },
+  {
+    "index": 49,
+    "offset": "0x186b6",
+    "endOffset": "0x186e4",
+    "wrapper": "0x12",
+    "japanese": "(それにしても\n ちょっとうれしそうだな……)",
+    "english": "Still... she looks\nkind of happy..."
+  },
+  {
+    "index": 50,
+    "offset": "0x1881e",
+    "endOffset": "0x1883a",
+    "wrapper": "0x12",
+    "japanese": "(あ~あ……行っちゃったよ)",
+    "english": "Aw... there she goes."
+  },
+  {
+    "index": 51,
+    "offset": "0x18af4",
+    "endOffset": "0x18b26",
+    "wrapper": "0x12",
+    "japanese": "(蘭ったら……真さんと\n あんなに親しそうに……)",
+    "english": "Ran... getting so\nclose to Makoto-san..."
+  },
+  {
+    "index": 52,
+    "offset": "0x18bb2",
+    "endOffset": "0x18bc2",
+    "wrapper": "0x12",
+    "japanese": "(オイオイ……)",
+    "english": "Come on..."
+  },
+  {
+    "index": 53,
+    "offset": "0x19a62",
+    "endOffset": "0x19a8a",
+    "wrapper": "0x12",
+    "japanese": "(私だって真さんを\n 信じてるわよ……)",
+    "english": "I trust Makoto-san\ntoo, you know..."
+  },
+  {
+    "index": 54,
+    "offset": "0x19a8c",
+    "endOffset": "0x19ab6",
+    "wrapper": "0x12",
+    "japanese": "(だけど……\n 黙って行く事ないのに……)",
+    "english": "But he didn't need\nto leave without a word..."
+  },
+  {
+    "index": 55,
+    "offset": "0x19ed6",
+    "endOffset": "0x19ef4",
+    "wrapper": "0x12",
+    "japanese": "(聞きしにまさるカタブツめ!)",
+    "english": "Even stiffer than\nI'd heard!"
+  },
+  {
+    "index": 56,
+    "offset": "0x1ad1e",
+    "endOffset": "0x1ad4e",
+    "wrapper": "0x12",
+    "japanese": "(私はもともと招待されてる\n んだけどなぁ……)",
+    "english": "I was invited here\nfrom the start, though."
+  },
+  {
+    "index": 57,
+    "offset": "0x1b04c",
+    "endOffset": "0x1b064",
+    "wrapper": "0x12",
+    "japanese": "(ん?今の声は確か……)",
+    "english": "Huh? That voice..."
+  },
+  {
+    "index": 58,
+    "offset": "0x1b066",
+    "endOffset": "0x1b098",
+    "wrapper": "0x12",
+    "japanese": "(王師範にいなされてた\n 典伊とかいう人の声……)",
+    "english": "That voice—Dian Yi...\nMaster Wang said no."
+  },
+  {
+    "index": 59,
+    "offset": "0x1bb56",
+    "endOffset": "0x1bb84",
+    "wrapper": "0x12",
+    "japanese": "(ん?幸円さんが出て行った\n みたいだな……)",
+    "english": "Huh? Looks like\nLian went out..."
+  },
+  {
+    "index": 60,
+    "offset": "0x1bb86",
+    "endOffset": "0x1bbb8",
+    "wrapper": "0x12",
+    "japanese": "(それにしても……\n 王師範の大好きな花って……)",
+    "english": "Still, the flower\nMaster Wang loves..."
+  },
+  {
+    "index": 61,
+    "offset": "0x1bd30",
+    "endOffset": "0x1bd3e",
+    "wrapper": "0x12",
+    "japanese": "(ヤバ……!)",
+    "english": "Uh-oh...!"
+  },
+  {
+    "index": 62,
+    "offset": "0x1bf80",
+    "endOffset": "0x1bfa8",
+    "wrapper": "0x12",
+    "japanese": "(ダメだ!……\n 蘭がいて狙えない!!)",
+    "english": "No good...! Ran's\nhere, I can't aim!!"
+  },
+  {
+    "index": 63,
+    "offset": "0x1c434",
+    "endOffset": "0x1c462",
+    "wrapper": "0x12",
+    "japanese": "(ドアにはカギがかかっているな\n ……うーん)",
+    "english": "The door's locked.\nHmm..."
+  },
+  {
+    "index": 64,
+    "offset": "0x1c8ec",
+    "endOffset": "0x1c914",
+    "wrapper": "0x12",
+    "japanese": "(今回も園子に\n 協力してもらうか……)",
+    "english": "I'll get Sonoko\nto help this time too..."
+  },
+  {
+    "index": 65,
+    "offset": "0x1f47c",
+    "endOffset": "0x1f48c",
+    "wrapper": "0x12",
+    "japanese": "(ハハハハ……)",
+    "english": "Hahaha..."
+  },
+  {
+    "index": 66,
+    "offset": "0x1f4c0",
+    "endOffset": "0x1f4e6",
+    "wrapper": "0x12",
+    "japanese": "(ん?\n おっちゃんの胸ポケット……)",
+    "english": "Huh? The old man's\nchest pocket..."
+  },
+  {
+    "index": 67,
+    "offset": "0x1f51a",
+    "endOffset": "0x1f52a",
+    "wrapper": "0x12",
+    "japanese": "(まさか……!)",
+    "english": "No way...!"
+  },
+  {
+    "index": 68,
+    "offset": "0x1f72a",
+    "endOffset": "0x1f75c",
+    "wrapper": "0x12",
+    "japanese": "(園子がもらった物と\n 同じ番号のリドルカード!)",
+    "english": "A Riddle Card with\nSonoko's same number!"
+  },
+  {
+    "index": 69,
+    "offset": "0x1f7aa",
+    "endOffset": "0x1f7d2",
+    "wrapper": "0x12",
+    "japanese": "(オレ宛に送られた\n リドルカード……)",
+    "english": "The Riddle Card\nsent to me..."
+  },
+  {
+    "index": 70,
+    "offset": "0x1f824",
+    "endOffset": "0x1f836",
+    "wrapper": "0x12",
+    "japanese": "(おっちゃん……)",
+    "english": "Old man..."
+  },
+  {
+    "index": 71,
+    "offset": "0x1f85e",
+    "endOffset": "0x1f870",
+    "wrapper": "0x12",
+    "japanese": "(そして園子……)",
+    "english": "And Sonoko..."
+  },
+  {
+    "index": 72,
+    "offset": "0x1f8a2",
+    "endOffset": "0x1f8c8",
+    "wrapper": "0x12",
+    "japanese": "(ウソの依頼人に\n リドルカード……)",
+    "english": "A fake client...\nand a Riddle Card..."
+  },
+  {
+    "index": 73,
+    "offset": "0x1f8ca",
+    "endOffset": "0x1f8e4",
+    "wrapper": "0x12",
+    "japanese": "(なんだか気になるな……)",
+    "english": "Something's\nbothering me..."
+  },
+  {
+    "index": 74,
+    "offset": "0x1f91c",
+    "endOffset": "0x1f942",
+    "wrapper": "0xff02",
+    "japanese": "\n          第3シナリオ終了",
+    "english": "\n          SCENARIO 3 CLEAR"
+  },
+  {
+    "index": 75,
+    "offset": "0x1f984",
+    "endOffset": "0x1f9ae",
+    "wrapper": "0x12",
+    "japanese": "(しまった!\n 蘭を見失っちまった……!)",
+    "english": "Damn!\nI lost sight of Ran...!"
+  },
+  {
+    "index": 76,
+    "offset": "0x1fa32",
+    "endOffset": "0x1fa44",
+    "wrapper": "0x12",
+    "japanese": "(しまった……!)",
+    "english": "Damn...!"
+  },
+  {
+    "index": 77,
+    "offset": "0x1fb52",
+    "endOffset": "0x1fb62",
+    "wrapper": "0x12",
+    "japanese": "(オイオイ……)",
+    "english": "Come on..."
+  },
+  {
+    "index": 78,
+    "offset": "0x1fd16",
+    "endOffset": "0x1fd34",
+    "wrapper": "0x12",
+    "japanese": "(げっ……\n 何だこりゃ!?)",
+    "english": "Gah...\nwhat the heck is this!?"
+  },
+  {
+    "index": 79,
+    "offset": "0x1fee4",
+    "endOffset": "0x1fef6",
+    "wrapper": "0x12",
+    "japanese": "(まいったな……)",
+    "english": "This is bad..."
+  },
+  {
+    "index": 80,
+    "offset": "0x1fef8",
+    "endOffset": "0x1ff2a",
+    "wrapper": "0x12",
+    "japanese": "(早くあの荷物をどかして\n 蘭に追いつかないと!)",
+    "english": "I have to move that\njunk and catch Ran!"
+  },
+  {
+    "index": 81,
+    "offset": "0x1ffa8",
+    "endOffset": "0x1ffc4",
+    "wrapper": "0x12",
+    "japanese": "(早く蘭に追いつかないと!)",
+    "english": "I have to catch\nup to Ran!"
+  },
+  {
+    "index": 82,
+    "offset": "0x200d6",
+    "endOffset": "0x20100",
+    "wrapper": "0x12",
+    "japanese": "(あーあ……\n ここまで来ちゃったよ……)",
+    "english": "Ugh... I've come\nthis far already..."
+  },
+  {
+    "index": 83,
+    "offset": "0x2016c",
+    "endOffset": "0x20186",
+    "wrapper": "0x12",
+    "japanese": "(まずい……見つかった!)",
+    "english": "Uh-oh...\nI've been spotted!"
+  },
+  {
+    "index": 84,
+    "offset": "0x201fa",
+    "endOffset": "0x20218",
+    "wrapper": "0x12",
+    "japanese": "(ドアにはカギがかかっている)",
+    "english": "The door's locked."
+  },
+  {
+    "index": 85,
+    "offset": "0x20252",
+    "endOffset": "0x2025c",
+    "wrapper": "0x12",
+    "japanese": "(蘭……)",
+    "english": "Ran..."
+  },
+  {
+    "index": 86,
+    "offset": "0x2025e",
+    "endOffset": "0x2027c",
+    "wrapper": "0x12",
+    "japanese": "(何とかここを抜け出さないと)",
+    "english": "I have to get out\nsomehow."
+  },
+  {
+    "index": 87,
+    "offset": "0x202da",
+    "endOffset": "0x202f4",
+    "wrapper": "0x12",
+    "japanese": "(この箱……押せそうだな)",
+    "english": "This crate...\nI can push it."
+  },
+  {
+    "index": 88,
+    "offset": "0x20358",
+    "endOffset": "0x20366",
+    "wrapper": "0x12",
+    "japanese": "(これは……)",
+    "english": "This is..."
+  },
+  {
+    "index": 89,
+    "offset": "0x20368",
+    "endOffset": "0x20392",
+    "wrapper": "0x12",
+    "japanese": "(ここから\n 抜け出せるかもしれない……)",
+    "english": "I might be able to\nget out this way..."
+  },
+  {
+    "index": 90,
+    "offset": "0x20394",
+    "endOffset": "0x203ba",
+    "wrapper": "0x12",
+    "japanese": "(とりあえず\n この先を調べてみよう)",
+    "english": "For now, let me\nlook further ahead."
+  },
+  {
+    "index": 91,
+    "offset": "0x203f4",
+    "endOffset": "0x20404",
+    "wrapper": "0x12",
+    "japanese": "(これは……?)",
+    "english": "This is...?"
+  },
+  {
+    "index": 92,
+    "offset": "0x20406",
+    "endOffset": "0x20430",
+    "wrapper": "0x12",
+    "japanese": "(4色の石像……\n 何か意味があるのか?)",
+    "english": "Four colors...\nwhat do the statues mean?"
+  },
+  {
+    "index": 93,
+    "offset": "0x204d4",
+    "endOffset": "0x2050c",
+    "wrapper": "0x12",
+    "japanese": "(4色のビャッコの石像と\n 部屋の中心にあるくぼみ……)",
+    "english": "Four colored Byakko\nstatues and a hollow..."
+  },
+  {
+    "index": 94,
+    "offset": "0x2050e",
+    "endOffset": "0x20542",
+    "wrapper": "0x12",
+    "japanese": "(石像が、何かのスイッチに\n なっているのか……?)",
+    "english": "Are the statues some\nkind of switch...?"
+  },
+  {
+    "index": 95,
+    "offset": "0x205f8",
+    "endOffset": "0x2062e",
+    "wrapper": "0x12",
+    "japanese": "(4色のスザクの石像と\n 部屋の中心にあるくぼみ……)",
+    "english": "Four colored Suzaku\nstatues and a hollow..."
+  },
+  {
+    "index": 96,
+    "offset": "0x20630",
+    "endOffset": "0x20664",
+    "wrapper": "0x12",
+    "japanese": "(石像が、何かのスイッチに\n なっているのか……?)",
+    "english": "Are the statues some\nkind of switch...?"
+  },
+  {
+    "index": 97,
+    "offset": "0x20756",
+    "endOffset": "0x20790",
+    "wrapper": "0x12",
+    "japanese": "(4色のセイリュウの石像と\n 部屋の中心にあるくぼみ……)",
+    "english": "Four colored Seiryu\nstatues and a hollow..."
+  },
+  {
+    "index": 98,
+    "offset": "0x20792",
+    "endOffset": "0x207c6",
+    "wrapper": "0x12",
+    "japanese": "(石像が、何かのスイッチに\n なっているのか……?)",
+    "english": "Are the statues some\nkind of switch...?"
+  },
+  {
+    "index": 99,
+    "offset": "0x20830",
+    "endOffset": "0x20840",
+    "wrapper": "0x12",
+    "japanese": "(あかない……)",
+    "english": "It won't open..."
+  },
+  {
+    "index": 100,
+    "offset": "0x20842",
+    "endOffset": "0x2087a",
+    "wrapper": "0x12",
+    "japanese": "(カギ穴が無いって事は\n 何かのしかけで開くのか……?)",
+    "english": "No keyhole... so some\nmechanism opens it...?"
+  },
+  {
+    "index": 101,
+    "offset": "0x2091c",
+    "endOffset": "0x20952",
+    "wrapper": "0x12",
+    "japanese": "(4色のゲンブの石像と\n 部屋の中心にあるくぼみ……)",
+    "english": "Four colored Genbu\nstatues and a hollow..."
+  },
+  {
+    "index": 102,
+    "offset": "0x20954",
+    "endOffset": "0x20988",
+    "wrapper": "0x12",
+    "japanese": "(石像が、何かのスイッチに\n なっているのか……?)",
+    "english": "Are the statues some\nkind of switch...?"
+  },
+  {
+    "index": 103,
+    "offset": "0x20b86",
+    "endOffset": "0x20bbc",
+    "wrapper": "0x12",
+    "japanese": "(見張り……するとあの部屋が\n オレと蘭がいた部屋か)",
+    "english": "A guard... so that\nroom held Ran and me."
+  },
+  {
+    "index": 104,
+    "offset": "0x20bc6",
+    "endOffset": "0x20bea",
+    "wrapper": "0x12",
+    "japanese": "(よし\n ここは、あれを使って……)",
+    "english": "All right.\nHere, I'll use that..."
+  },
+  {
+    "index": 105,
+    "offset": "0x20c30",
+    "endOffset": "0x20c66",
+    "wrapper": "0x12",
+    "japanese": "(そこに置いてあるランタンで\n 見張りを気絶させよう)",
+    "english": "I'll use that lantern\nto knock out the guard."
+  },
+  {
+    "index": 106,
+    "offset": "0x21258",
+    "endOffset": "0x2127e",
+    "wrapper": "0x12",
+    "japanese": "(何!?\n ここにもヤツの手下が……)",
+    "english": "What!?\nMore goons here..."
+  },
+  {
+    "index": 107,
+    "offset": "0x212e6",
+    "endOffset": "0x21318",
+    "wrapper": "0x12",
+    "japanese": "(よし!あのテーブルの\n 上にある物を使って……)",
+    "english": "All right! I'll use\nwhat's on that table..."
+  },
+  {
+    "index": 108,
+    "offset": "0x2133a",
+    "endOffset": "0x21354",
+    "wrapper": "0x12",
+    "japanese": "(手下連を気絶させるんだ)",
+    "english": "I'll knock out\nthe goons."
+  },
+  {
+    "index": 109,
+    "offset": "0x21cd4",
+    "endOffset": "0x21ce6",
+    "wrapper": "0x12",
+    "japanese": "(……まただ……)",
+    "english": "...Not again..."
+  },
+  {
+    "index": 110,
+    "offset": "0x21f3c",
+    "endOffset": "0x21f4c",
+    "wrapper": "0x12",
+    "japanese": "(オイオイ……)",
+    "english": "Come on..."
+  },
+  {
+    "index": 111,
+    "offset": "0x22ad4",
+    "endOffset": "0x22aec",
+    "wrapper": "0x12",
+    "japanese": "(ったく、あいつら……)",
+    "english": "Jeez, those guys..."
+  },
+  {
+    "index": 112,
+    "offset": "0x23124",
+    "endOffset": "0x23140",
+    "wrapper": "0x12",
+    "japanese": "(それにしてもこの部屋……)",
+    "english": "Still, this room..."
+  },
+  {
+    "index": 113,
+    "offset": "0x2316a",
+    "endOffset": "0x2317e",
+    "wrapper": "0x12",
+    "japanese": "(ん?……この新聞)",
+    "english": "Huh? ...A newspaper."
+  },
+  {
+    "index": 114,
+    "offset": "0x231bc",
+    "endOffset": "0x231d4",
+    "wrapper": "0x12",
+    "japanese": "(これは……昨日の新聞)",
+    "english": "This is...\nyesterday's paper."
+  },
+  {
+    "index": 115,
+    "offset": "0x244aa",
+    "endOffset": "0x244c8",
+    "wrapper": "0x12",
+    "japanese": "(なんだ?\n この会話は……)",
+    "english": "What? What kind of\nconversation is this..."
+  },
+  {
+    "index": 116,
+    "offset": "0x24f16",
+    "endOffset": "0x24f44",
+    "wrapper": "0x12",
+    "japanese": "(待ってろよ灰原\n すぐ助けてやっからな!!)",
+    "english": "Hang on, Haibara.\nI'll save you soon!"
+  },
+  {
+    "index": 117,
+    "offset": "0x25426",
+    "endOffset": "0x25440",
+    "wrapper": "0x12",
+    "japanese": "(灰原が人質にとられ……)",
+    "english": "Haibara's been\ntaken hostage..."
+  },
+  {
+    "index": 118,
+    "offset": "0x25442",
+    "endOffset": "0x25478",
+    "wrapper": "0x12",
+    "japanese": "(おまけにこいつらも一緒じゃあ\n うかつに動けないぜ)",
+    "english": "And with these guys\nhere, I can't move."
+  },
+  {
+    "index": 119,
+    "offset": "0x25550",
+    "endOffset": "0x2556a",
+    "wrapper": "0x12",
+    "japanese": "(あぶね!……強風か!?)",
+    "english": "Whoa! ...A gust!?"
+  },
+  {
+    "index": 120,
+    "offset": "0x25706",
+    "endOffset": "0x2571a",
+    "wrapper": "0x12",
+    "japanese": "(ハッ…………!?)",
+    "english": "Huh...!?"
+  },
+  {
+    "index": 121,
+    "offset": "0x25c40",
+    "endOffset": "0x25c54",
+    "wrapper": "0x12",
+    "japanese": "(フゥ……やれやれ)",
+    "english": "Phew, what a relief."
+  },
+  {
+    "index": 122,
+    "offset": "0x2658e",
+    "endOffset": "0x2659c",
+    "wrapper": "0x12",
+    "japanese": "(これか……)",
+    "english": "This is it..."
+  },
+  {
+    "index": 123,
+    "offset": "0x2659e",
+    "endOffset": "0x265ae",
+    "wrapper": "0x12",
+    "japanese": "(番号は……?)",
+    "english": "The number is...?"
+  },
+  {
+    "index": 124,
+    "offset": "0x2690a",
+    "endOffset": "0x26930",
+    "wrapper": "0xff02",
+    "japanese": "\n          第4シナリオ終了",
+    "english": "\n          SCENARIO 4 CLEAR"
+  },
+  {
+    "index": 125,
+    "offset": "0x26b8e",
+    "endOffset": "0x26baa",
+    "wrapper": "0x12",
+    "japanese": "(な……なんだアイツは……)",
+    "english": "Wh... what is\nthat guy..."
+  },
+  {
+    "index": 126,
+    "offset": "0x26bac",
+    "endOffset": "0x26bd6",
+    "wrapper": "0x12",
+    "japanese": "(医師みたいなカッコを\n していたな……)",
+    "english": "He was dressed\nlike a doctor..."
+  },
+  {
+    "index": 127,
+    "offset": "0x26bd8",
+    "endOffset": "0x26bf8",
+    "wrapper": "0x12",
+    "japanese": "(幽霊?……な、わけはないから)",
+    "english": "A ghost? ...Th-That\ncan't be."
+  },
+  {
+    "index": 128,
+    "offset": "0x26c02",
+    "endOffset": "0x26c32",
+    "wrapper": "0x12",
+    "japanese": "(オレ連以外の人問が\n ここにいるって事か……)",
+    "english": "So there are people\nhere besides me..."
+  },
+  {
+    "index": 129,
+    "offset": "0x26c34",
+    "endOffset": "0x26c6a",
+    "wrapper": "0x12",
+    "japanese": "(とりあえず見つからないように\n した方がいいな……)",
+    "english": "For now, I'd better\nstay out of sight..."
+  },
+  {
+    "index": 130,
+    "offset": "0x26dfa",
+    "endOffset": "0x26e34",
+    "wrapper": "0x12",
+    "japanese": "(このベッドは、しゃがまないと\n 通りぬけられないな……)",
+    "english": "I can't pass this bed\nwithout crouching..."
+  },
+  {
+    "index": 131,
+    "offset": "0x26e36",
+    "endOffset": "0x26e66",
+    "wrapper": "0x12",
+    "japanese": "(でも、いざって時に\n 身をかくすのには便利だ)",
+    "english": "But it's handy\nfor hiding when it counts."
+  },
+  {
+    "index": 132,
+    "offset": "0x26fcc",
+    "endOffset": "0x27002",
+    "wrapper": "0x12",
+    "japanese": "(気づかれませんように!\n 気づかれませんように!!)",
+    "english": "Don't notice me!\nPlease don't notice me!"
+  },
+  {
+    "index": 133,
+    "offset": "0x275ee",
+    "endOffset": "0x2760e",
+    "wrapper": "0x12",
+    "japanese": "(これで暗い所も大丈夫だが……)",
+    "english": "Dark places are fine\nnow, but..."
+  },
+  {
+    "index": 134,
+    "offset": "0x27610",
+    "endOffset": "0x27646",
+    "wrapper": "0x12",
+    "japanese": "(幽霊医師とかいうのが出たら\n 消した方がいいかもな)",
+    "english": "If that ghost doctor\nshows up, turn it off."
+  },
+  {
+    "index": 135,
+    "offset": "0x27814",
+    "endOffset": "0x27824",
+    "wrapper": "0x12",
+    "japanese": "(誰かいる……)",
+    "english": "Someone's there..."
+  },
+  {
+    "index": 136,
+    "offset": "0x27826",
+    "endOffset": "0x27842",
+    "wrapper": "0x12",
+    "japanese": "(暗くて何も見えないが……)",
+    "english": "It's too dark\nto see anything..."
+  },
+  {
+    "index": 137,
+    "offset": "0x27844",
+    "endOffset": "0x2786c",
+    "wrapper": "0x12",
+    "japanese": "(しかし……\n 時計型ライトを点けたら)",
+    "english": "But... if I turn\non my watch light..."
+  },
+  {
+    "index": 138,
+    "offset": "0x2786e",
+    "endOffset": "0x27896",
+    "wrapper": "0x12",
+    "japanese": "(見つかってしまうかも\n しれない……)",
+    "english": "I might get\nspotted..."
+  },
+  {
+    "index": 139,
+    "offset": "0x27898",
+    "endOffset": "0x278a8",
+    "wrapper": "0x12",
+    "japanese": "(どうする……)",
+    "english": "What do I do..."
+  },
+  {
+    "index": 140,
+    "offset": "0x279e4",
+    "endOffset": "0x27a0e",
+    "wrapper": "0x12",
+    "japanese": "(だ……だれかが……\n あ、歩いてる……)",
+    "english": "S-Someone's...\nwalking..."
+  },
+  {
+    "index": 141,
+    "offset": "0x27a14",
+    "endOffset": "0x27a2a",
+    "wrapper": "0x12",
+    "japanese": "(ま……まさか……!)",
+    "english": "N-No way...!"
+  },
+  {
+    "index": 142,
+    "offset": "0x28130",
+    "endOffset": "0x2815a",
+    "wrapper": "0x12",
+    "japanese": "(歩美ちゃんの光点は\n 動いていない……)",
+    "english": "Ayumi's dot\nisn't moving..."
+  },
+  {
+    "index": 143,
+    "offset": "0x2815c",
+    "endOffset": "0x28186",
+    "wrapper": "0x12",
+    "japanese": "(灰原がまだ見つけて\n いないって事か?)",
+    "english": "So he hasn't found\nHaibara yet?"
+  },
+  {
+    "index": 144,
+    "offset": "0x28384",
+    "endOffset": "0x283ac",
+    "wrapper": "0x12",
+    "japanese": "(早く灰原を\n 助けにいかないと……!)",
+    "english": "I have to hurry\nand save Haibara...!"
+  },
+  {
+    "index": 145,
+    "offset": "0x283ea",
+    "endOffset": "0x28412",
+    "wrapper": "0x12",
+    "japanese": "(早く灰原を\n 助けにいかないと……!)",
+    "english": "I have to hurry\nand save Haibara...!"
+  },
+  {
+    "index": 146,
+    "offset": "0x284a8",
+    "endOffset": "0x284c2",
+    "wrapper": "0x12",
+    "japanese": "(ここは……ボイラー室か)",
+    "english": "This is...\nthe boiler room?"
+  },
+  {
+    "index": 147,
+    "offset": "0x2852a",
+    "endOffset": "0x2855a",
+    "wrapper": "0x12",
+    "japanese": "(所々、蒸気がもれている……\n 気をつけないと)",
+    "english": "Steam's leaking\nall over... careful."
+  },
+  {
+    "index": 148,
+    "offset": "0x285e2",
+    "endOffset": "0x2860e",
+    "wrapper": "0x12",
+    "japanese": "(……早く灰原を\n 助けにいかないと……!)",
+    "english": "...I have to hurry\nand save Haibara...!"
+  },
+  {
+    "index": 149,
+    "offset": "0x286c4",
+    "endOffset": "0x286f4",
+    "wrapper": "0x12",
+    "japanese": "(ダメだ……!\n エレベーターが呼び戻せない!)",
+    "english": "No good...! Can't\ncall the elevator back!"
+  },
+  {
+    "index": 150,
+    "offset": "0x286f6",
+    "endOffset": "0x2871e",
+    "wrapper": "0x12",
+    "japanese": "(……灰原は上か!\n 急がないと……!)",
+    "english": "...Haibara is\nupstairs! Hurry...!"
+  },
+  {
+    "index": 151,
+    "offset": "0x287be",
+    "endOffset": "0x287d2",
+    "wrapper": "0x12",
+    "japanese": "(灰原は上だ……!)",
+    "english": "Haibara's upstairs!"
+  },
+  {
+    "index": 152,
+    "offset": "0x28b6c",
+    "endOffset": "0x28b86",
+    "wrapper": "0x12",
+    "japanese": "(灰原を早く助けないと!)",
+    "english": "I have to save\nHaibara, fast!"
+  },
+  {
+    "index": 153,
+    "offset": "0x2a1a0",
+    "endOffset": "0x2a1b4",
+    "wrapper": "0x12",
+    "japanese": "(やったラッキー!)",
+    "english": "Yes! Lucky!"
+  },
+  {
+    "index": 154,
+    "offset": "0x2a1b6",
+    "endOffset": "0x2a1de",
+    "wrapper": "0x12",
+    "japanese": "(最新型のムービー携帯が\n 使えるぜ!)",
+    "english": "A brand-new video\nphone! I can use it!"
+  },
+  {
+    "index": 155,
+    "offset": "0x2b43a",
+    "endOffset": "0x2b462",
+    "wrapper": "0x12",
+    "japanese": "(これは……\n もう一台のエテコの映像)",
+    "english": "This is...\nfootage of the other Eteko."
+  },
+  {
+    "index": 156,
+    "offset": "0x2b464",
+    "endOffset": "0x2b49c",
+    "wrapper": "0x12",
+    "japanese": "(もし、あのエテコにも\n 爆弾がセットしてあるなら……)",
+    "english": "If that Eteko also has\na bomb inside..."
+  },
+  {
+    "index": 157,
+    "offset": "0x2c324",
+    "endOffset": "0x2c35c",
+    "wrapper": "0x12",
+    "japanese": "(ここを出て、エテコを止める\n 方法を見つけないと……)",
+    "english": "I have to get out\nand stop Eteko..."
+  },
+  {
+    "index": 158,
+    "offset": "0x2c35e",
+    "endOffset": "0x2c38a",
+    "wrapper": "0x12",
+    "japanese": "(それにはまず\n 湊井博士を追わないと……)",
+    "english": "First I have to\nfollow Dr. Asai..."
+  },
+  {
+    "index": 159,
+    "offset": "0x2c3f2",
+    "endOffset": "0x2c410",
+    "wrapper": "0x12",
+    "japanese": "(スタジオへの出入口は1ヶ所)",
+    "english": "There's only one way\ninto the studio."
+  },
+  {
+    "index": 160,
+    "offset": "0x2c412",
+    "endOffset": "0x2c440",
+    "wrapper": "0x12",
+    "japanese": "(だが、そこはエテコで\n ふさがれている……)",
+    "english": "But Eteko is\nblocking it..."
+  },
+  {
+    "index": 161,
+    "offset": "0x2c442",
+    "endOffset": "0x2c452",
+    "wrapper": "0x12",
+    "japanese": "(となると……)",
+    "english": "Then..."
+  },
+  {
+    "index": 162,
+    "offset": "0x2c4d0",
+    "endOffset": "0x2c4e6",
+    "wrapper": "0x12",
+    "japanese": "(通風口か……よし!)",
+    "english": "The air vent...\nall right!"
+  },
+  {
+    "index": 163,
+    "offset": "0x2cf3a",
+    "endOffset": "0x2cf5a",
+    "wrapper": "0x12",
+    "japanese": "(このエテコは……あの時の!?)",
+    "english": "This Eteko is...\nthe one from before!?"
+  },
+  {
+    "index": 164,
+    "offset": "0x2cffc",
+    "endOffset": "0x2d010",
+    "wrapper": "0x12",
+    "japanese": "(この声は……!?)",
+    "english": "That voice...!?"
+  },
+  {
+    "index": 165,
+    "offset": "0x2d628",
+    "endOffset": "0x2d656",
+    "wrapper": "0x12",
+    "japanese": "(スタジオのエテコには\n 耳がついていた……)",
+    "english": "The studio Eteko had\nears attached..."
+  },
+  {
+    "index": 166,
+    "offset": "0x2d658",
+    "endOffset": "0x2d682",
+    "wrapper": "0x12",
+    "japanese": "(あれは確実に止められる\n わけだな……)",
+    "english": "So that's how it could\nbe stopped for sure..."
+  },
+  {
+    "index": 167,
+    "offset": "0x3030e",
+    "endOffset": "0x30348",
+    "wrapper": "0x12",
+    "japanese": "(確かに……あの爆弾がダミー\n じゃないという証拠は無い)",
+    "english": "True... there's no\nproof that bomb's real."
+  },
+  {
+    "index": 168,
+    "offset": "0x3034a",
+    "endOffset": "0x30380",
+    "wrapper": "0x12",
+    "japanese": "(早く、こいつを眠らせて\n 爆弾を何とかしないと……)",
+    "english": "I have to knock him\nout and stop the bomb."
+  },
+  {
+    "index": 169,
+    "offset": "0x31286",
+    "endOffset": "0x312b4",
+    "wrapper": "0x12",
+    "japanese": "(おっちゃん……\n 競馬新聞じゃ説得力ないぜ)",
+    "english": "Old man... that\nracing paper proves nothing."
+  },
+  {
+    "index": 170,
+    "offset": "0x31386",
+    "endOffset": "0x31398",
+    "wrapper": "0x12",
+    "japanese": "(今回の事件……)",
+    "english": "This case..."
+  },
+  {
+    "index": 171,
+    "offset": "0x3139a",
+    "endOffset": "0x313d8",
+    "wrapper": "0x12",
+    "japanese": "(マスコミの報道は、湊井博士の\n 電波ジャックによるもの……)",
+    "english": "The media says it was\nDr. Asai's hijacking..."
+  },
+  {
+    "index": 172,
+    "offset": "0x313da",
+    "endOffset": "0x313f2",
+    "wrapper": "0x12",
+    "japanese": "(と、報じているが……)",
+    "english": "That's what they\nsay, but..."
+  },
+  {
+    "index": 173,
+    "offset": "0x313f4",
+    "endOffset": "0x31426",
+    "wrapper": "0x12",
+    "japanese": "(実際には、湊井博士自身も\n 被害者の1人だ……)",
+    "english": "In truth, Dr. Asai\nis a victim too..."
+  },
+  {
+    "index": 174,
+    "offset": "0x31428",
+    "endOffset": "0x31462",
+    "wrapper": "0x12",
+    "japanese": "(確かに、電波ジャック自体を\n 計画したのは湊井博士だが)",
+    "english": "Sure, Dr. Asai planned\nthe hijacking, but..."
+  },
+  {
+    "index": 175,
+    "offset": "0x31464",
+    "endOffset": "0x3149a",
+    "wrapper": "0x12",
+    "japanese": "(その計画を利用した吉良こそ\n この事件の真犯人……)",
+    "english": "Yoshira used that plan—\nhe's the real culprit."
+  },
+  {
+    "index": 176,
+    "offset": "0x3149c",
+    "endOffset": "0x314b6",
+    "wrapper": "0x12",
+    "japanese": "(番組内で爆死をよそおい)",
+    "english": "Faking his death\non air..."
+  },
+  {
+    "index": 177,
+    "offset": "0x314b8",
+    "endOffset": "0x314e4",
+    "wrapper": "0x12",
+    "japanese": "(周囲の目に\n 自分は死んだと認知させ……)",
+    "english": "Making everyone\nthink he was dead..."
+  },
+  {
+    "index": 178,
+    "offset": "0x314e6",
+    "endOffset": "0x31512",
+    "wrapper": "0x12",
+    "japanese": "(湊井博士を犯人に仕立てて\n 身代金を要求)",
+    "english": "Framing Dr. Asai\nand demanding ransom."
+  },
+  {
+    "index": 179,
+    "offset": "0x31514",
+    "endOffset": "0x31554",
+    "wrapper": "0x12",
+    "japanese": "(そして、計画を知る湊井博士と\n 自分の偽りの死の証拠を消す為)",
+    "english": "Then, to erase Asai and\nhis fake-death proof..."
+  },
+  {
+    "index": 180,
+    "offset": "0x31556",
+    "endOffset": "0x31580",
+    "wrapper": "0x12",
+    "japanese": "(TV局ごと\n 爆破しようと計画した……)",
+    "english": "He planned to blow\nup the whole TV station..."
+  },
+  {
+    "index": 181,
+    "offset": "0x31878",
+    "endOffset": "0x3188e",
+    "wrapper": "0x12",
+    "japanese": "(そっちの話かよ……)",
+    "english": "So that's what\nthis is about..."
+  },
+  {
+    "index": 182,
+    "offset": "0x3191a",
+    "endOffset": "0x31934",
+    "wrapper": "0x12",
+    "japanese": "(滅はまだ残っている……)",
+    "english": "The mystery\nstill remains..."
+  },
+  {
+    "index": 183,
+    "offset": "0x3197e",
+    "endOffset": "0x319ac",
+    "wrapper": "0x12",
+    "japanese": "(一連の事件で手に入れた\n リドルカード……)",
+    "english": "The Riddle Cards\nfrom this whole case..."
+  },
+  {
+    "index": 184,
+    "offset": "0x319ae",
+    "endOffset": "0x319ce",
+    "wrapper": "0x12",
+    "japanese": "(このカードが意味するものとは)",
+    "english": "What this card\nmeans..."
+  },
+  {
+    "index": 185,
+    "offset": "0x319d0",
+    "endOffset": "0x319e0",
+    "wrapper": "0x12",
+    "japanese": "(いったい……)",
+    "english": "Just what..."
+  },
+  {
+    "index": 186,
+    "offset": "0x31a14",
+    "endOffset": "0x31a3a",
+    "wrapper": "0xff02",
+    "japanese": "\n          第5シナリオ終了",
+    "english": "\n          SCENARIO 5 CLEAR"
+  },
+  {
+    "index": 187,
+    "offset": "0x31b3e",
+    "endOffset": "0x31b58",
+    "wrapper": "0x12",
+    "japanese": "(あそこが通風口だな……)",
+    "english": "That's the air vent..."
+  },
+  {
+    "index": 188,
+    "offset": "0x31b8e",
+    "endOffset": "0x31bc4",
+    "wrapper": "0x12",
+    "japanese": "(しかし……こんな所にも\n エテコがいるって事は……)",
+    "english": "But... if there's Eteko\neven here..."
+  },
+  {
+    "index": 189,
+    "offset": "0x31bc6",
+    "endOffset": "0x31c06",
+    "wrapper": "0x12",
+    "japanese": "(このTV局に、エテコがいない\n 場所は無いと思った方がいいな)",
+    "english": "There's nowhere here\nwithout Eteko..."
+  },
+  {
+    "index": 190,
+    "offset": "0x31c08",
+    "endOffset": "0x31c18",
+    "wrapper": "0x12",
+    "japanese": "(……とにかく)",
+    "english": "...Anyway"
+  },
+  {
+    "index": 191,
+    "offset": "0x31c1a",
+    "endOffset": "0x31c4a",
+    "wrapper": "0x12",
+    "japanese": "(エテコにふれないように\n 注意しないとな……)",
+    "english": "I have to be careful\nnot to touch Eteko..."
+  },
+  {
+    "index": 192,
+    "offset": "0x31c98",
+    "endOffset": "0x31cc4",
+    "wrapper": "0x12",
+    "japanese": "(ここは、しゃがまないと\n 通れないな……)",
+    "english": "I can't pass here\nwithout crouching..."
+  },
+  {
+    "index": 193,
+    "offset": "0x31d02",
+    "endOffset": "0x31d12",
+    "wrapper": "0x12",
+    "japanese": "(エテコ……!)",
+    "english": "Eteko...!"
+  },
+  {
+    "index": 194,
+    "offset": "0x31d38",
+    "endOffset": "0x31d5e",
+    "wrapper": "0x12",
+    "japanese": "(よしっ\n さっき教わったあれで……)",
+    "english": "All right. I'll\nuse that move I learned..."
+  },
+  {
+    "index": 195,
+    "offset": "0x31ea8",
+    "endOffset": "0x31ebc",
+    "wrapper": "0x12",
+    "japanese": "(エレベーター……)",
+    "english": "The elevator..."
+  },
+  {
+    "index": 196,
+    "offset": "0x31ebe",
+    "endOffset": "0x31ed6",
+    "wrapper": "0x12",
+    "japanese": "(第5スタジオは2階だ)",
+    "english": "Studio 5 is on\nthe 2nd floor."
+  },
+  {
+    "index": 197,
+    "offset": "0x31ed8",
+    "endOffset": "0x31ef4",
+    "wrapper": "0x12",
+    "japanese": "(あのエテコをどかせば……)",
+    "english": "If I move that\nEteko away..."
+  },
+  {
+    "index": 198,
+    "offset": "0x31f62",
+    "endOffset": "0x31f7a",
+    "wrapper": "0x12",
+    "japanese": "(第5スタジオは2階だ)",
+    "english": "Studio 5 is on\nthe 2nd floor."
+  },
+  {
+    "index": 199,
+    "offset": "0x31f7c",
+    "endOffset": "0x31f9a",
+    "wrapper": "0x12",
+    "japanese": "(エレベーターで行くしかない)",
+    "english": "I'll have to take\nthe elevator."
+  },
+  {
+    "index": 200,
+    "offset": "0x320d0",
+    "endOffset": "0x320fa",
+    "wrapper": "0x12",
+    "japanese": "(犯人は……\n 警備室にいる可能性が高い)",
+    "english": "Culprit's probably\nin the security room."
+  },
+  {
+    "index": 201,
+    "offset": "0x320fc",
+    "endOffset": "0x32130",
+    "wrapper": "0x12",
+    "japanese": "(監視カメラの視界に\n 入らないようにしないと……)",
+    "english": "I have to stay out\nof the camera's view..."
+  },
+  {
+    "index": 202,
+    "offset": "0x3227e",
+    "endOffset": "0x3228e",
+    "wrapper": "0x12",
+    "japanese": "(これは………)",
+    "english": "This is..."
+  },
+  {
+    "index": 203,
+    "offset": "0x322b8",
+    "endOffset": "0x322cc",
+    "wrapper": "0x12",
+    "japanese": "(気絶している……)",
+    "english": "It's out cold..."
+  },
+  {
+    "index": 204,
+    "offset": "0x32338",
+    "endOffset": "0x32352",
+    "wrapper": "0x12",
+    "japanese": "(ハッ!?あれは……!!)",
+    "english": "Huh!? That's...!!"
+  },
+  {
+    "index": 205,
+    "offset": "0x32360",
+    "endOffset": "0x3237a",
+    "wrapper": "0x12",
+    "japanese": "(警備室にいたエテコ……)",
+    "english": "The Eteko from\nthe security room..."
+  },
+  {
+    "index": 206,
+    "offset": "0x3237c",
+    "endOffset": "0x323aa",
+    "wrapper": "0x12",
+    "japanese": "(……って事は\n 「おすわり」は効かないのか)",
+    "english": "So 'Sit!' doesn't\nwork on it, then."
+  },
+  {
+    "index": 207,
+    "offset": "0x32454",
+    "endOffset": "0x32468",
+    "wrapper": "0x12",
+    "japanese": "(第5スタジオ……)",
+    "english": "Studio 5..."
+  },
+  {
+    "index": 208,
+    "offset": "0x3246a",
+    "endOffset": "0x32494",
+    "wrapper": "0x12",
+    "japanese": "(ここで\n まちがいないみたいだな……!)",
+    "english": "This looks like\nthe right place...!"
+  },
+  {
+    "index": 209,
+    "offset": "0x32552",
+    "endOffset": "0x32582",
+    "wrapper": "0x12",
+    "japanese": "(今までの事件で手に入れた\n リドルカード……)",
+    "english": "Riddle Cards from\nall the past cases..."
+  },
+  {
+    "index": 210,
+    "offset": "0x325a0",
+    "endOffset": "0x325d2",
+    "wrapper": "0x12",
+    "japanese": "(そのカードにかくされた暗号の\n いくつかは……)",
+    "english": "Some codes hidden\non those cards..."
+  },
+  {
+    "index": 211,
+    "offset": "0x325d4",
+    "endOffset": "0x32608",
+    "wrapper": "0x12",
+    "japanese": "(それぞれの事件の真相に\n 深くかかわっていた……)",
+    "english": "Each one was tied\nto its case's truth..."
+  },
+  {
+    "index": 212,
+    "offset": "0x3260a",
+    "endOffset": "0x3262a",
+    "wrapper": "0x12",
+    "japanese": "(オレがここにたどり着いたのも)",
+    "english": "The reason I made\nit here..."
+  },
+  {
+    "index": 213,
+    "offset": "0x3262c",
+    "endOffset": "0x3265c",
+    "wrapper": "0x12",
+    "japanese": "(決定的なリドルカードを\n 手にしたからだ……)",
+    "english": "Because I got the\ndecisive Riddle Card..."
+  },
+  {
+    "index": 214,
+    "offset": "0x3265e",
+    "endOffset": "0x32672",
+    "wrapper": "0x12",
+    "japanese": "(それは、あの……)",
+    "english": "That one was...\nthat..."
+  },
+  {
+    "index": 215,
+    "offset": "0x32674",
+    "endOffset": "0x32688",
+    "wrapper": "0x12",
+    "japanese": "(TV局の事件……)",
+    "english": "TV station case..."
+  },
+  {
+    "index": 216,
+    "offset": "0x3287c",
+    "endOffset": "0x3289c",
+    "wrapper": "0x12",
+    "japanese": "(その時手に入れたカードは……)",
+    "english": "The card I got then..."
+  },
+  {
+    "index": 217,
+    "offset": "0x3289e",
+    "endOffset": "0x328d4",
+    "wrapper": "0x12",
+    "japanese": "(あきらかに、この場所を示す\n 暗号を含んでいた……)",
+    "english": "It clearly held a\ncode pointing here..."
+  },
+  {
+    "index": 218,
+    "offset": "0x328d6",
+    "endOffset": "0x32914",
+    "wrapper": "0x12",
+    "japanese": "(一連の事件を結びつけるものが\n リドルカードだとしたら……)",
+    "english": "If the Riddle Cards\nlink all these cases..."
+  },
+  {
+    "index": 219,
+    "offset": "0x32916",
+    "endOffset": "0x32950",
+    "wrapper": "0x12",
+    "japanese": "(そのカードの背後にある物は\n おそらく……スフィンクス)",
+    "english": "Behind those cards is\nprobably... the Sphinx."
+  },
+  {
+    "index": 220,
+    "offset": "0x32952",
+    "endOffset": "0x3296e",
+    "wrapper": "0x12",
+    "japanese": "(全ての滅を解くカギは……)",
+    "english": "The key to solving\nall the riddles..."
+  },
+  {
+    "index": 221,
+    "offset": "0x33b22",
+    "endOffset": "0x33b38",
+    "wrapper": "0x12",
+    "japanese": "(あの人……確か……)",
+    "english": "That person...\nI'm sure..."
+  },
+  {
+    "index": 222,
+    "offset": "0x3438e",
+    "endOffset": "0x343b4",
+    "wrapper": "0x12",
+    "japanese": "(服部……\n てはず通りにたのむぜ!)",
+    "english": "Hattori... stick\nto the plan, got it!"
+  },
+  {
+    "index": 223,
+    "offset": "0x34516",
+    "endOffset": "0x34532",
+    "wrapper": "0x12",
+    "japanese": "(よし!彼女に追いついたぞ)",
+    "english": "Good! I caught up\nto her."
+  },
+  {
+    "index": 224,
+    "offset": "0x357be",
+    "endOffset": "0x357de",
+    "wrapper": "0xff02",
+    "japanese": "\n       狙われた探偵 完",
+    "english": "\n      TARGETED DETECTIVE\n           THE END"
+  },
+  {
+    "index": 225,
+    "offset": "0x358ee",
+    "endOffset": "0x3591a",
+    "wrapper": "0x12",
+    "japanese": "(その自殺した人が\n あいつの父親なのか?)",
+    "english": "Was that suicide\nvictim his father?"
+  },
+  {
+    "index": 226,
+    "offset": "0x3591c",
+    "endOffset": "0x35956",
+    "wrapper": "0x12",
+    "japanese": "(でも灰原は、組織を裏切って\n 自殺したと言っていた……)",
+    "english": "But Haibara said he\nbetrayed them and died."
+  },
+  {
+    "index": 227,
+    "offset": "0x35958",
+    "endOffset": "0x35986",
+    "wrapper": "0x12",
+    "japanese": "(組織の一員で探偵……\n どういう事だ……?)",
+    "english": "A group detective...\nwhat does that mean...?"
+  },
+  {
+    "index": 228,
+    "offset": "0x35988",
+    "endOffset": "0x3599c",
+    "wrapper": "0x12",
+    "japanese": "(…………カドキ?)",
+    "english": "...Kadoki?"
+  },
+  {
+    "index": 229,
+    "offset": "0x35e5c",
+    "endOffset": "0x35e70",
+    "wrapper": "0x12",
+    "japanese": "(そういう事か……)",
+    "english": "So that's it..."
+  },
+  {
+    "index": 230,
+    "offset": "0x3649a",
+    "endOffset": "0x364bc",
+    "wrapper": "0x12",
+    "japanese": "(久島玲子?\n それが本名か……)",
+    "english": "Kujima Reiko?\nHer real name..."
+  },
+  {
+    "index": 231,
+    "offset": "0x364d0",
+    "endOffset": "0x364dc",
+    "wrapper": "0x12",
+    "japanese": "(ハッ!?)",
+    "english": "Huh!?"
+  },
+  {
+    "index": 232,
+    "offset": "0x3653e",
+    "endOffset": "0x36560",
+    "wrapper": "0x12",
+    "japanese": "(ピストル!?\n させるかよっ!)",
+    "english": "A pistol!?\nLike I'd let you!"
+  },
+  {
+    "index": 233,
+    "offset": "0x38264",
+    "endOffset": "0x38280",
+    "wrapper": "0x12",
+    "japanese": "(ハハハ……オレ持ってるよ)",
+    "english": "Hahaha... I've\ngot one."
+  },
+  {
+    "index": 234,
+    "offset": "0x3833c",
+    "endOffset": "0x38356",
+    "wrapper": "0x12",
+    "japanese": "(えっ……いつのまに!?)",
+    "english": "Huh... when did\nyou...!?"
+  },
+  {
+    "index": 235,
+    "offset": "0x3854a",
+    "endOffset": "0x38578",
+    "wrapper": "0x12",
+    "japanese": "(まさか園子のヤツ\n 暗号に気付いたのか!?)",
+    "english": "Sonoko actually\nnoticed the code!?"
+  },
+  {
+    "index": 236,
+    "offset": "0x386a6",
+    "endOffset": "0x386c8",
+    "wrapper": "0x12",
+    "japanese": "(へぇ~園子のヤツ\n やるな……)",
+    "english": "Wow, Sonoko...\nnot bad..."
+  },
+  {
+    "index": 237,
+    "offset": "0x38800",
+    "endOffset": "0x38812",
+    "wrapper": "0x12",
+    "japanese": "(ガ{ff1f}{43}クッ……)",
+    "english": "Gah...!"
+  },
+  {
+    "index": 238,
+    "offset": "0x38822",
+    "endOffset": "0x3884c",
+    "wrapper": "0x12",
+    "japanese": "(どこをどうすれば\n そうなるんだよ……)",
+    "english": "How does that even\nhappen...?"
+  },
+  {
+    "index": 239,
+    "offset": "0x38962",
+    "endOffset": "0x38970",
+    "wrapper": "0x12",
+    "japanese": "(ハハハ……)",
+    "english": "Hahaha..."
+  },
+  {
+    "index": 240,
+    "offset": "0x38972",
+    "endOffset": "0x389aa",
+    "wrapper": "0x12",
+    "japanese": "(そういえば光彦たちが\n 1ケタはレアだって言ってたな)",
+    "english": "Mitsuhiko said\nsingle digits are rare."
+  },
+  {
+    "index": 241,
+    "offset": "0x389da",
+    "endOffset": "0x389ee",
+    "wrapper": "0x12",
+    "japanese": "(え……!?オレ?)",
+    "english": "Huh...!? Me?"
+  },
+  {
+    "index": 242,
+    "offset": "0x38c52",
+    "endOffset": "0x38c5e",
+    "wrapper": "0x12",
+    "japanese": "(こわ……)",
+    "english": "Scary..."
+  },
+  {
+    "index": 243,
+    "offset": "0x38c8e",
+    "endOffset": "0x38cb4",
+    "wrapper": "0xff02",
+    "japanese": "\n          狙われた探偵 完",
+    "english": "\n      TARGETED DETECTIVE\n           THE END"
+  },
+  {
+    "index": 244,
+    "offset": "0x38d9a",
+    "endOffset": "0x38db4",
+    "wrapper": "0x12",
+    "japanese": "(あの女の人……確か……)",
+    "english": "That woman...\nI'm sure..."
+  },
+  {
+    "index": 245,
+    "offset": "0x39864",
+    "endOffset": "0x39898",
+    "wrapper": "0x12",
+    "japanese": "(HELP……それであの\n 強化ガラスが開くはずだ)",
+    "english": "HELP... that should\nopen the glass door."
+  },
+  {
+    "index": 246,
+    "offset": "0x3a19e",
+    "endOffset": "0x3a1ba",
+    "wrapper": "0x12",
+    "japanese": "(何なの?\n この子供……)",
+    "english": "What is it?\nThis kid..."
+  },
+  {
+    "index": 247,
+    "offset": "0x3a610",
+    "endOffset": "0x3a630",
+    "wrapper": "0x12",
+    "japanese": "(ここに逃げ込んだのか……!?)",
+    "english": "Did they run\nin here...!?"
+  },
+  {
+    "index": 248,
+    "offset": "0x3a63a",
+    "endOffset": "0x3a646",
+    "wrapper": "0x12",
+    "japanese": "(……ん?)",
+    "english": "...Hm?"
+  },
+  {
+    "index": 249,
+    "offset": "0x3a92a",
+    "endOffset": "0x3a93e",
+    "wrapper": "0x12",
+    "japanese": "(自殺した父親!?)",
+    "english": "His father\ncommitted suicide!?"
+  },
+  {
+    "index": 250,
+    "offset": "0x3a948",
+    "endOffset": "0x3a976",
+    "wrapper": "0x12",
+    "japanese": "(あれっ……?\n たしか灰原がそんな事を……)",
+    "english": "Huh...? Haibara\nsaid something like that..."
+  },
+  {
+    "index": 251,
+    "offset": "0x150d6",
+    "endOffset": "0x150ec",
+    "wrapper": "0x12",
+    "japanese": "(ん?ア{3c}アレは!!)",
+    "english": "Huh? Wait,\nthat's...!!"
+  },
+  {
+    "index": 252,
+    "offset": "0x18fba",
+    "endOffset": "0x18fc2",
+    "wrapper": "0x12",
+    "japanese": "(ん?)",
+    "english": "Hm?"
+  },
+  {
+    "index": 253,
+    "offset": "0x1bbc6",
+    "endOffset": "0x1bbdc",
+    "wrapper": "0x12",
+    "japanese": "({ff1f}9ま{3c}まさか!?)",
+    "english": "N-No way!?"
+  },
+  {
+    "index": 254,
+    "offset": "0x1f716",
+    "endOffset": "0x1f728",
+    "wrapper": "0x12",
+    "japanese": "(こ{3c}これは!!)",
+    "english": "This is...!!"
+  },
+  {
+    "index": 255,
+    "offset": "0x1f7f0",
+    "endOffset": "0x1f7fc",
+    "wrapper": "0x12",
+    "japanese": "(服部……)",
+    "english": "Hattori..."
+  },
+  {
+    "index": 256,
+    "offset": "0x24554",
+    "endOffset": "0x24564",
+    "wrapper": "0x12",
+    "japanese": "({ff1f}9ナニ!?)",
+    "english": "What!?"
+  },
+  {
+    "index": 257,
+    "offset": "0x25342",
+    "endOffset": "0x25350",
+    "wrapper": "0x12",
+    "japanese": "(クソ!……)",
+    "english": "Damn!..."
+  },
+  {
+    "index": 258,
+    "offset": "0x26a80",
+    "endOffset": "0x26a8a",
+    "wrapper": "0x12",
+    "japanese": "(ん!?)",
+    "english": "Hm!?"
+  },
+  {
+    "index": 259,
+    "offset": "0x28818",
+    "endOffset": "0x28824",
+    "wrapper": "0x12",
+    "japanese": "(ハッ!?)",
+    "english": "Hah!?"
+  },
+  {
+    "index": 260,
+    "offset": "0x2b72e",
+    "endOffset": "0x2b73a",
+    "wrapper": "0x12",
+    "japanese": "(ナニ!?)",
+    "english": "What!?"
+  },
+  {
+    "index": 261,
+    "offset": "0x349c8",
+    "endOffset": "0x349d4",
+    "wrapper": "0x12",
+    "japanese": "(ハッ!?)",
+    "english": "Hah!?"
+  },
+  {
+    "index": 262,
+    "offset": "0x1af7a",
+    "endOffset": "0x1af98",
+    "wrapper": "0x12",
+    "japanese": "(それにしても蘭は{32b}いな……)",
+    "english": "Still, Ran-neechan\nsure is taking her time…"
+  },
+  {
+    "index": 263,
+    "offset": "0x1af9a",
+    "endOffset": "0x1afc6",
+    "wrapper": "0x12",
+    "japanese": "(女の若替えは\n 時問がかかるって言うけど)",
+    "english": "Girls take a while\nto get dressed, they say…"
+  },
+  {
+    "index": 264,
+    "offset": "0x2ae42",
+    "endOffset": "0x2ae60",
+    "wrapper": "0x12",
+    "japanese": "(な!?なにをするつもりだ?)",
+    "english": "W-What are you trying\nto do?! Dr. Asai…"
+  },
+  {
+    "index": 265,
+    "offset": "0x39e04",
+    "endOffset": "0x39e2a",
+    "wrapper": "0x12",
+    "japanese": "(服部……\n 手はず通りにたのむぜ!)",
+    "english": "Hattori... stick\nto the plan, got it!"
+  }
+]

@@ -1,0 +1,689 @@
+﻿Card #,Question (English),Question (Japanese),Expected Answer (Kana),Answer (Romaji),English Meaning,Explanation & Wordplay Breakdown (English),Original Explanation (Japanese)
+1,"Read the coded message and
+answer the question inside it.
+Hint: put the pieces in number
+order.
+Q: 5de 8tori 3ito 1yubi
+6ki 9to 4de 2to 7ta 10ha?","汰の暗号文を読んで
+そこに書かれた問題に答えよ。
+ヒント:数の順に並び替えると』』』
+
+問:5で8鳥3糸1指6き
+9と4で2と7た10は?",あやとり,ayatori,What bird is made from fingers and thread?,"Answer: ayatori
+In number order the pieces read:
+1yubi 2to 3ito 4de 5de 6ki
+7ta 8tori 9to 10ha
+'What bird is made from fingers
+and thread?' A cat's cradle.","正解:あやとり
+数の順番通りに文字を並び替えると
+1指2と3糸4で5で6き
+7た8鳥9と10は?
+「指と糸でできた鳥とは?」となる。"
+2,"Solve the coded sum.
+Hint: read each kanji as a Japanese
+number word.
+Q: mountain + word + paper
+- hurry = ?","汰の暗号文による計算を解け。
+ヒント:算=3死=4重=10
+
+問:山+語+紙-急=?",さん,san,san,"Answer: san (3)
+The kanji are read as number
+words: san(3) go(5) shi(4)
+kyuu(9).
+3 + 5 + 4 - 9 = 3.","正解:3
+漢字をひらがなにすると
+山=さん語=ご紙=し急=きゅう3+5+4-9=3となる。"
+3,"Put a jewel in your mouth.
+What do you get?
+Hint: this is a kanji puzzle.","汰の暗号文を読んで
+そこに書かれた問題に答えよ。
+ヒント:「上」の上、「下」の下を順番に読むと』』』
+
+問:口下玉下く下え下と下に下る下
+上に上を上わ上る上何上な上?",くに,kuni,kuni,"Answer: kuni (country)
+The kanji for mouth (kuchi)
+inside the kanji for jewel (tama)
+makes the kanji for country.","正解:国
+「上」の上に書かれた文字と
+「下」の下に書かれた文字を
+順番に読んでいくと
+「口に玉をくわえると何になる?」
+と読める。
+よって答えは、口+玉=「国」となる。"
+4,"Read every other letter to find the
+question:
+WxHxAxTxBxUxGxIxSxIxNx1xTxOx1x0","汰の暗号文を読んで
+そこに書かれた問題に答えよ。
+ヒント:1文字おきに読むと』』』
+
+問:いなちかかにらかじくゅれうてまいでるのむすしうとじはの?",はち,hachi,eight,"Answer: hachi
+In Japanese hachi means both
+'eight' and 'bee', so a bee
+hides in the numbers 1 to 10.","正解:ハチ
+1文字おきに文字を読むと』』
+「いちからじゅうまでのすうじのなかにかくれているむしとは?」となる。"
+5,"Read it backwards:
+?etisoppo eht fo etisoppo si tahW","汰の暗号文を読んで
+そこに書かれた問題に答えよ。
+ヒント:反対から読むと』』』
+
+問:?はいたんはのいたんは",さんせい,sansei,What is opposite of the opposite?,"Answer: sansei (I agree)
+'What is opposite of the
+opposite?' The opposite of
+no is yes, so you agree.","正解:賛成
+文字を反対にして読むと』』』
+「はんたいのはんたいは?」となる。"
+6,"Each kana keeps its consonant and
+takes a vowel from the number:
+1=a 2=i 3=u 4=e 5=o.
+na2 sa4 ma5 na5 na5
+ha1 wa3 ta1 a2 ha1 ?","汰の暗号文を読んで
+そこに書かれた問題に答えよ。
+ヒント:あ1=あか2=きさ3=す
+問:な2さ4ま5な5な5
+は1わ3た1あ2は1?",ほんもの,honmono,What is the opposite of a fake?,"Answer: honmono (the real thing)
+na2=ni sa4=se ma5=mo
+na5=no na5=no ha1=ha
+wa3=wa ta1=ta a2=i ha1=ha
+'What is the opposite of a fake?'","正解:本物
+暗号文は汰の通り。
+な2=にさ4=せま5=も
+な5=のな5=のは1=は
+わ3=んた1=たあ2=い
+は1=は?
+「にせもののはんたいは?」となる。"
+7,"Solve the coded sum.
+Hint: count the brush strokes of
+each kanji.
+Q: e + dai + iri - iki = ?","汰の暗号文による計算を解け。
+ヒント:江=6戸=4川=3
+
+問:竹+大+入-生=?",ろく,roku,roku,"Answer: roku (six)
+e=6 dai=3 iri=2 iki=5
+6 + 3 + 2 - 5 = 6.","正解:6
+漢字の画数を
+数字に置き換えて計算すると
+竹=6大=3入=2生=5
+6+3+2-5=6となる。"
+8,"Read the letters between numbers
+in order to find the question:
+1WHAT2IS3POLICE4CALLED
+5IN6ENGLISH7","汰の暗号文を読んで
+そこに書かれた問題に答えよ。
+ヒント:数字の順番に文字を読め
+
+15はつ4きて
+えなぬはさもけ
+い6んという7
+2ごでけ3るへ",ぽりす,porisu,What is police called in English?,"Answer: porisu (police)
+The code reads: 'What is police
+called in English?'
+The answer is police.","正解:ポリス
+暗号文は汰の通り。
+1から2が「えい」
+2から3が「ごでけ」
+3から4が「いさ」
+4から5が「つは」
+5から6が「な」
+6から7が「んという」
+「英語で警察は何と言う?」になる。"
+9,"Take the kana ko, u and no out of
+this sentence, then read it:
+'kofuyu gau owaru tono nani ga
+kuru?'
+What is the answer?","汰の暗号文を読んで
+そこに書かれた問題に答えよ。
+ヒント:コウノトリからの手紙
+
+問:「不幸の湯がおの割ると何がこく残る?」",はる,haru,fuyu ga owaru to nani ga kuru?,"Answer: haru (spring)
+What is left reads: 'fuyu ga owaru
+to nani ga kuru?' When winter ends,
+what comes? Spring.","正解:春
+漢字をすべて「ひらがな」にして
+この文から「こ」「う」「の」を取ると「ふゆがおわるとなにがくる?」
+となる。"
+10,"A pyramid has 100 steps.
+Each year you climb 20 steps but
+slide back 10.
+How many years to reach the top?",「1年に20段のぼって10段降りる」この方法で、100段あるピラミッドの頂上に若くには、何年必要か?,きゅうねん,kyuunen,kyuunen,"Answer: kyuunen (nine years)
+You gain only 10 steps a year,
+so it seems to take 10 years.
+But in year 9 you climb 20 and
+reach the top.","正解:9年
+1年に10段ずつしかのぼれないので、100段のぼるには10年かかるように思えるが、実際は9年目に20段のぼった時点で頂上に若く。"
+11,"In English a cat is a 'cat'.
+A dog is a 'dog'.
+So what is a kappa?","英語で、猫は「キャット」。
+犬は「ドック」。
+ではカッパは?",れいんこーと,reinkooto,reinkooto,"Answer: reinkooto (raincoat)
+A Japanese raincoat is called a
+raincoat in English.","正解:レインコート
+雨合羽(あまがっぱ)は英語で
+レインコート。"
+12,"The building looks Western, but
+they serve you a Japanese sweet.
+What sweet is it?","外国風の建物なのに、遊びに行くと出されるのは日本のお菓子。
+それは何というお菓子?",ようかん,youkan,youkan,"Answer: youkan
+A Western-style building is a
+youkan, and the sweet served
+there is youkan too.","正解:ようかん
+外国風の建物は「洋館」で、出されるお菓子は「ようかん」だから。"
+13,"What insect can only write in
+hiragana?",ひらがなでしか文字が書くことができない虫は?,かなぶん,kanabun,Kanabun,"Answer: kanabun (flower chafer)
+'Kanabun' sounds like 'kana bun',
+which means kana writing.","正解:カナブン
+ひらがなの文字は、仮名文(かなぶん)だから。"
+14,"What kind of bread can you cook
+with but never eat?","食べることはできないけど
+料理には使えるパンは?",ふらいぱん,furaipan,furaipan,"Answer: furaipan (frying pan)
+You can cook with a frying pan,
+but you cannot eat the pan.","正解:フライパン
+料理はできても、フライパン本体は食べられないから。"
+15,"You eat a candy and suddenly
+breathe fire. What flavor is it?","ある度を食べたら突然県をふいた。
+一体何味の度?",はっか,hakka,Hakka,"Answer: hakka (mint)
+'Hakka' sounds like the word for
+catching fire.","正解:ハッカ
+県が出る=発県(ハッカ)だから。"
+16,"Snack time is 3 o'clock.
+So what time is breakfast?
+Hint: listen to the word for
+breakfast.","おやつは3時。
+では、あさごはんは何じ?",ごじ,goji,Asagohan,"Answer: goji (5 o'clock)
+'Asagohan' (breakfast) begins
+with 'go', the word for five, so
+breakfast is at five.",正解:5(文)字。
+17,"You have 2 bouquets and 3 more
+bouquets. How many bouquets do
+you have together?","花たばが、2たばと3たばあります。
+合わせると何たばになる?",ひとたば,hitotaba,hitotaba,"Answer: hitotaba (one bunch)
+You tie them all into one bunch.","正解:1たば
+1つにたばねるから。"
+18,"What number fills the blank?
+500 10 100 ? 50 1
+Hint: the answer is a Japanese
+number word.","汰の?に入る数字はいくつ?
+50010100?501",ご,go,go,"Answer: go (five)
+The missing number is five, and
+'go' is the Japanese word for it.","正解:5
+数字の大きい順番。"
+19,"What fruit never ripens, no matter
+how long you wait?","いくら時問をかけても
+古さない果物とは?",みかん,mikan,Mikan,"Answer: mikan (orange)
+'Mikan' sounds like the word for
+not yet finished.","正解:みかん
+未完(みかん)だから。"
+20,Is a hawk male or female?,"タカはオスでしょうか?
+メスでしょうか?",おす,osu,osu,"Answer: osu (male)
+The kanji for field plus the kana
+ka makes the kanji for man.","正解:オス
+「田」に「カ」で男だから。"
+21,"Take one dog from a hundred dogs.
+What color is the dog left?",百円の犬から一円の犬が居なくなった。残った犬は何色?,しろ,shiro,Hundred,"Answer: shiro (white)
+'Hundred' minus 'one' leaves the
+kanji for white.","正解:しろ
+「百」-「一」=「白」だから。"
+22,"When you ask where something is,
+no matter how far away, they say
+'it is right nearby'.
+What shop is that?","場所をたずねた時
+どんなに遠くにあっても
+「すぐ近くにある」
+と言われるお店は何屋さん?",そばや,sobaya,Nearby,"Answer: sobaya (soba shop)
+'Nearby' is 'soba', which is
+also the word for buckwheat
+noodles.","正解:そば屋
+「近く」=「そば」だから。"
+23,"What vehicle carries people but
+never moves forward, back, left
+or right?","人を運ぶ乗り物で
+前にも後ろにも、右にも左にも動かない乗り物は何か?",えれべーたー,erebeetaa,erebeetaa,"Answer: erebeetaa (elevator)
+An elevator only moves up and
+down.","正解:エレベーター
+エレベーターは
+上と下にしか動かないから。"
+24,"What boat never floats and lets
+water pour inside?","船なのに水に浮かばないで
+中に水が入ってしまう船は何か?",ゆぶね,yubune,yubune,"Answer: yubune (bathtub)
+A hot bath is the boat you sit
+in, and it is full of water.","正解:湯船
+お風呂の湯船。"
+25,"What sea creature gets lighter
+when it stands on its head?",逆立ちすれば軽くなる海の生物は?,いるか,iruka,iruka,"Answer: iruka (dolphin)
+Read 'iruka' backwards and you
+get 'karui', meaning light.","正解:イルカ
+イルカを逆から読むと
+カルイになるから。"
+26,"What animal always has a bird
+sitting on its head?","頭の上に鳥がとまっているという
+動物は?",かもしか,kamoshika,kamo,"Answer: kamoshika (serow)
+Put the bird 'kamo' on top of
+'shika' (deer) and you get
+kamoshika.","正解:カモシカ
+「シカ」の上に鳥の「カモ」を乗せると「カモシカ」になるから。"
+27,"There are 5 televisions. They are
+all on and too loud, so you turn
+2 of them off. How many are left?","5台のテレビがあります。
+全部つけているとうるさいので
+2つ消しました。残ったのは何台?",ごだい,godai,godai,"Answer: godai (five sets)
+Turning them off does not remove
+them, so there are still five.","正解:5台
+テレビ自体は消えないから。"
+28,"What bread does nobody ever pay
+attention to?",いつも誰にも相手にされないパンは何?,むしぱん,mushipan,Mushi,"Answer: mushipan (steamed bread)
+'Mushi' sounds like the word for
+ignoring someone.","正解:むしパン
+無視(むし)パンだから。"
+29,"What game can a gorilla and a
+crocodile play, but a lion and a
+giraffe cannot?","ゴリラやワニならできて
+ライオンやキリンにはできないものは?",しりとり,shiritori,n,"Answer: shiritori (word chain)
+In Japanese their names end in
+'n', and a word chain cannot end
+with 'n'.","正解:しりとり
+「ン」がついてしまうから。"
+30,"What vehicle runs away at double
+speed when you chase it?","追いかけられると
+倍のスピードで逃げだす乗り物は?",おーとばい,ootobai,Ou,"Answer: ootobai (motorbike)
+'Ou' means to chase, so chasing
+gives 'ou-to-bai'.","正解:オートバイ
+追うと倍=オートバイだから。"
+31,"Two trees make a grove.
+Three trees make a forest.
+What do five trees make?","木が2つで林。木が3つで森。
+では、5つで何になる?",しんりん,shinrin,shinrin,"Answer: shinrin (forest)
+Five trees still make a forest.","正解:しんりん
+木が5つで「森林」。"
+32,"A big bird can fall and make no
+sound, but a small bird makes a
+sound when it falls. What sound?","大きな鳥が倒れてもしないが、小さな鳥が倒れると、ある音がするという。
+どんな音?",ことり,kotori,kotori,"Answer: kotori (small bird)
+A small bird is 'kotori', which
+sounds like 'koto-ri'.","正解:ことり
+小さな鳥=コトリ(小鳥)だから。"
+33,"What electric item tingles when
+you touch it after giving blood?","血を抜いた後にさわると
+ビリビリする電気用品は?",かんでんち,kandenchi,chi,"Answer: kandenchi (battery)
+Take 'chi' from 'kandenchi' and
+you get 'kanden', an electric
+shock.","正解:乾電池
+乾電池(かんでんち)から「ち」を取ると、感電(かんでん)になるから。"
+34,"What flower does a mouse always
+carry in its mouth?",ネズミが、いつでも口にくわえている花は?,ちゅーりっぷ,chuurippu,chuu,"Answer: chuurippu (tulip)
+A mouse says 'chuu', and lips are
+'rippu'. Together: chuurippu.","正解:チューリップ
+ネズミの「チュー」と
+くちびるは英語で「リップ」
+足してチューリップ。"
+35,"In what American city does a die
+only ever roll 4 or 5?",何度サイコロをふっても、4か5しか出ないアメリカの都市はどこ?,しかご,shikago,Shika go,"Answer: shikago (Chicago)
+'Shika go' means only four or
+five.","正解:シカゴ
+4か5=しかご(シカゴ)だから。"
+36,"You cast a spell on a king and he
+grows two horns and a tail.
+What did he become?","王様に魔法をかけたら
+角が2本とシッポが生えてきた。
+何に変身した?",ひつじ,hitsuji,hitsuji,"Answer: hitsuji (sheep)
+Add two horns and a tail to the
+kanji for king and you get the
+kanji for sheep.","正解:ひつじ
+「王」の文字に
+角が2本とシッポを生やすと
+「羊」になる。"
+37,"What creature appears when a
+mouse meets a fox?","ネズミとキツネが出会うと
+姿を表わす生き物は?",こんちゅう,konchuu,kon,"Answer: konchuu (insect)
+The fox says 'kon' and the mouse
+says 'chuu': konchuu.","正解:昆虫
+それぞれの鳴き声を合わせると
+「コン」と「チュウ」で「昆虫」。"
+38,What flower is always running?,いつも走ってばかりいる花は?,らん,ran,Run,"Answer: ran (orchid)
+'Run' in English is 'ran'.","正解:らん
+「走る」は
+英語でR(ラン)だから。"
+39,"Which part of Japan takes 63 days
+to travel through?
+Hint: one week is 7 days.","旅をする時には、63日もかかってしまうという、日本のある地方とはどこ?
+ヒント:1週問は7日",きゅうしゅう,kyuushuu,kyuu shuu,"Answer: kyuushuu
+63 days is 9 weeks, and nine
+weeks is 'kyuu shuu'.","正解:九州
+63日は週に直すと
+9週問(9週)だから。"
+40,"It is on a person's face, but on
+the head of a bottle.
+What is it?","人問には顔についてるのに
+ビンには頭についてるものは何?",くち,kuchi,kuchi,"Answer: kuchi (mouth)
+A bottle has a mouth on top.","正解:口
+ビンには、頭に飲み口がついている。"
+41,"A fox stands on its tail and
+plays under a leaf. What game?","キツネが逆立ちして
+葉っぱの下でする遊びは?",はねつき,hanetsuki,netsuki,"Answer: hanetsuki (battledore)
+A standing fox is 'netsuki', and
+adding 'ha' gives hanetsuki.","正解:はねつき
+キツネが逆立ち=「ネツキ」で
+その上に「ハ」をつけると
+「はねつき」だから。"
+42,"What is polite to say before
+a meal?","食事の前にくと
+おぎょうぎが良い物は何?",いた,ita,Itadakimasu,"Answer: ita (board)
+'Itadakimasu' starts with 'ita',
+which means board.","正解:板
+板きます(いただきます)だから。"
+43,"A cheetah does not have it, but a
+tiger does. The mountains do not,
+but the sea does. What is it?","チーターに無いのに、トラに有る。
+山に無いのに、海にある物とは何?",しま,shima,shima,"Answer: shima (stripes, island)
+A tiger has stripes and the sea
+has islands. Both are 'shima'.","正解:しま
+トラはシマ模様。海には島がある。"
+44,"How do you turn a big block of ice
+into water in one second?","大きな氷をたった1秒で水にするには
+何をかくせばいい?",てん,ten,ten,"Answer: ten (dot)
+Remove the dot from the kanji for
+ice and it becomes water.","正解:てん
+氷の「点」をかくせば水になる。"
+45,"A bear scores 0 on a test.
+In which prefecture is the test?",クマの合格点が0という試験は、何部でおこなわれる?,くまもとけん,kumamotoken,Kuma mo token,"Answer: kumamotoken
+(Kumamoto Prefecture)
+'Kuma mo token' means even a bear
+cannot solve it.","正解:熊本部
+「クマも解けん」だから。"
+46,"What plant always confesses its
+love with a racing heart?","いつもドキドキしながら
+恋の告白をする植物とは?",すすき,susuki,"Su, suki!","Answer: susuki (pampas grass)
+'Su, suki!' means I, I like you!","正解:ススキ
+「す、好き!」=ススキだから。"
+47,"Written down it has three corners,
+but drawn on paper it is round.
+What is it?","字に書くとサンカクだが
+紙に描くと、まるいのは何?",まる,maru,maru,"Answer: maru (circle)
+Drawn on paper it is round, but
+written it takes three strokes.","正解:丸
+紙に描くと○だが
+字に書くと三画になるから。"
+48,"In the mountains you bang a stone
+and a tree together. Which one
+says ouch?","山の中で、石と木をぶつけてみた。
+「痛い」と言ったのはどっち?",いし,ishi,ishi,"Answer: ishi (stone)
+The kanji for stone contains the
+kanji for mouth.","正解:石
+石には口があるから。"
+49,"What kind of udon is 'chitsuteto'
+udon?","「ちつてと」うどんって、
+どんなウドン?",たぬきうどん,tanukiudon,ta,"Answer: tanuki udon
+One kana, 'ta', is missing, and
+'ta nuki' means ta removed.","正解:たぬきうどん
+「た」が、ぬけているから。"
+50,"You bend your hand to the right.
+What grows out?",手を右にまげた。何がはえてきたか?,け,ke,ke,"Answer: ke (hair)
+Bend the kanji for hand and it
+becomes the kanji for hair.","正解:毛
+手を右にまげると
+毛になるから。"
+51,What language is 'apple'?,「アップル」は何語?,りんご,ringo,ringo,"Answer: ringo (apple)
+It is just a pun: apple is ringo
+in Japanese.","正解:リンゴ
+ダジャレでーす。"
+52,"What bird has two insects hiding
+inside its name?",2円の虫がかくれている鳥は?,がちょう,gachou,Ga,"Answer: gachou (goose)
+'Ga' and 'chou' are both insects.","正解:ガチョウ
+ガとチョウが入っているから。"
+53,"Your mother is cheerful but your
+father is unhappy. What fruit is
+that?",お母さんは元気なのに、お父さんは嫌いな果物は?,ぱぱいや,papaiya,Papa iya,"Answer: papaiya (papaya)
+'Papa iya' means dad is not
+happy.","正解:パパイヤ
+「父」が「いや」=パパイヤだから。"
+54,"What creature is always riding in
+a car?",いつも車に乗っている生き物は?,えんじん,enjin,Enjin,"Answer: enjin (engine)
+'Enjin' sounds like the word for
+a monkey person.","正解:えんじん
+エンジン=猿人。"
+55,"What instrument can only be played
+on Monday and Friday?",木曜日と金曜日にしか使えない楽器は?,もっきん,mokkin,moku,"Answer: mokkin (xylophone)
+Monday and Friday are 'moku' and
+'kin', which gives mokkin.","正解:木琴
+木曜と金曜=もっきん(木琴)だから。"
+56,"Here is a ranking of popular jobs.
+What job is number ten?","職業人気ランキングを作りました。
+10番目の職業は何?",じゅうい,juui,juu-i,"Answer: juui (veterinarian)
+Number ten is 'juu-i', which
+sounds like 'juui'.","正解:獣医
+「10位」だから。"
+57,"What flower is told it is not put
+together, no matter how neatly you
+arrange it?",どんなにキレイにまとめても、「まとまっていない」と言われる花は?,ばら,bara,Barabara,"Answer: bara (rose)
+'Barabara' means scattered.","正解:薔薇
+まとまらないのはバラ(薔薇)だから。"
+58,"What bird kills the tree it lands
+on?",とまった木が枯れてしまう鳥は、何という鳥?,からす,karasu,Karasu,"Answer: karasu (crow)
+'Karasu' sounds like the word for
+making something wither.","正解:カラス
+「枯らす」だから。"
+59,"What price of sake never gets you
+drunk, no matter how much you
+drink?",いくら飲んでも辞わないお酒の値段は?,よえん,yoen,Yoen,"Answer: yoen (4 yen)
+'Yoen' sounds like the word for
+never getting drunk.","正解:4円
+「辞えん」だから。"
+60,"A truck carries tomatoes, onions
+and carrots. It takes a sharp
+curve. What fell off?","トラックに、トマト』玉ネギ』ニンジンがつまれて運ばれています。
+急カーブで何が落ちたでしょう?",すぴーど,supiido,supiido,"Answer: supiido (speed)
+The cargo stayed on. The truck
+lost its speed.","正解:スピード
+落ちたのは積荷ではなく
+トラックのスピードが落ちた。"
+61,What color always gives orders?,他人に命令ばかりする色は何色?,しろ,shiro,Shiro!,"Answer: shiro (white)
+'Shiro!' means do it!","正解:白
+命令は「しろ!」だから。"
+62,"What fruit is attached to a
+person's leg?",人問の足についている果物は?,もも,momo,Futomomo,"Answer: momo (peach)
+'Futomomo' means thigh, and it
+contains 'momo'.","正解:桃
+足についてるのは、ふとももだから。"
+63,"What vehicle lets you bring a
+thousand stitches but not a fan?",せんぷう機はいいのに、せんすは持ち込み禁止の乗り物は?,せんすいかん,sensuikan,Sensu wa ikan,"Answer: sensuikan (submarine)
+'Sensu wa ikan' means fans are
+not allowed.","正解:潜水艦
+「せんす、いかん!」だから。"
+64,What is under the sofa?,ソファの下にあるものは?,みれど,miredo,so,"Answer: miredo (mi, re, do)
+In the scale, 'so' and 'fa' are
+above 'mi', 're' and 'do'.","正解:ミレド
+音階で、「ソ」と「ファ」の下は
+「ミ」と「レ」と「ド」です。"
+65,"What car can two people ride but
+one person cannot?",1人では乗れないのに、2人なら乗れる車はどんな車?,かたぐるま,kataguruma,kataguruma,"Answer: kataguruma (shoulder ride)
+It takes two people.","正解:かたぐるま
+2人でなければできません。"
+66,"On a test you write only your name
+and hand it in. How many points
+do you get?",テストの時、名前しか書かないで出したらマルはいくつもらえる?,ひとつ,hitotsu,hitotsu,"Answer: hitotsu (one)
+You score zero, but the zero is
+one round mark.","正解:1つ
+名前だけでは0点だから。"
+67,"What sport is popular with people
+who write books?",本を書く人連に人気のあるスポーツは?,さっかー,sakkaa,sakka,"Answer: sakkaa (soccer)
+A writer is 'sakka', so soccer is
+'sakkaa'.","正解:サッカー
+本を書く人は作家だから。"
+68,"What is useless whole but useful
+once broken?","割ってしまうと役に立つのに
+割らないと役に立たないものは?",たまご,tamago,tamago,"Answer: tamago (egg)
+An egg must be broken to be
+eaten.","正解:たまご
+卵は割らないと食べれません。"
+69,"There is a race in the sea.
+What place did the octopus come?","海の中でレースがありました。
+タコは何番だった?",きゅうばん,kyuuban,kyuuban,"Answer: kyuuban (ninth)
+An octopus has 'kyuuban', which
+means suckers and also ninth.","正解:9番
+タコにあるのは吸盤(きゅうばん)だから。"
+70,"In Japanese, the word for younger
+sister contains one of me and the
+word for younger brother two.
+What am I?",妹は1つしか持っておらず、弟は2つ持っているものは?,と,to,Imouto,"Answer: to (the kana to)
+'Imouto' has one 'to' and
+'otouto' has two.","正解:と
+ひらがなで書くと、「と」の文字は、妹には1つ、弟には2つあるから。"
+71,"Look up and it is below.
+Look down and it is above.
+What is it?","上を見れば下にあり
+下を見れば上にあるものは?",いち,ichi,ichi,"Answer: ichi (one)
+The kanji for one sits below the
+kanji for up and above down.","正解:一
+上は下に、下は上に漢字の一がある。"
+72,"A boy and a girl jump into a pond
+with a big splash. Which one was
+it?",池に大きな音をたてて落ちたのは、男の子と女の子のどちら?,おとこのこ,otokonoko,botcha,"Answer: otokonoko (boy)
+The splash 'botcha' sounds like
+'botchan', a word for a boy.","正解:男の子
+坊ちゃん(ボッチャン)だから。"
+73,What bird suddenly fell ill?,突然、病気になってしまった鳥は?,きゅうかんちょう,kyuukanchou,Kyuukan,"Answer: kyuukanchou (secretary bird)
+'Kyuukan' means a sudden
+illness.","正解:きゅうかんちょう
+急患(きゅうかん)だから。"
+74,What is above the sky?,空より上にあるものは?,しど,shido,so,"Answer: shido (shi, do)
+In the scale, 'so' and 'ra' are
+below 'shi' and 'do'.","正解:シド
+音階で、「ソ」と「ラ」の上は
+「シ」と「ド」です。"
+75,"What is impossible to cut with one
+but easy to cut with many?",1枚だと切れないのに、たくさんあると切れるものは?,とらんぷ,toranpu,toranpu,"Answer: toranpu (playing cards)
+One card cannot cut, but a deck
+can.","正解:トランプ
+1枚では切れません。"
+76,"What bird tells you to go somewhere
+cool on a hot summer day?",夏の暑い日に、涼しい場所に行くようにアドバイスをしてくれる鳥は?,すずめ,suzume,Suzume,"Answer: suzume (sparrow)
+'Suzume' sounds like the word for
+cooling down.","正解:スズメ
+「涼め」だから。"
+77,"Is the stone under the mountain big
+or small?",山の下にある石は、大きいでしょうか?小さいでしょうか?,おおきい,ookii,ookii,"Answer: ookii (big)
+The kanji for mountain above the
+kanji for stone makes the kanji
+for boulder.","正解:大きい
+「山」の下に「石」で「岩」だから。"
+78,"What building stands on the border
+between two towns?",町と町の境目に建っている建物は?,きょうかい,kyoukai,Kyoukai,"Answer: kyoukai (church)
+'Kyoukai' means both boundary
+and church.","正解:教会
+境目なので境界(きょうかい)だから。"
+79,"What animal is near the middle of
+Australia?",オーストラリアの、ほぼ中心部にいる動物は?,とら,tora,osutoraria,"Answer: tora (tiger)
+Written in kana, 'osutoraria' has
+'tora' in the middle.","正解:トラ
+オーストラリアの文字の、ほぼ真ん中に「トラ」という文字がある。"
+80,"When is the sun exactly in the
+middle of the sky?",お日様が、ちょうど真ん中にいるのっていつ頃?,ひる,hiru,hiru,"Answer: hiru (noon)
+The kanji for day sits in the
+middle.","正解:昼
+日が真ん中にある。"
+81,"A pig and a fox go to the sea
+together. What creature do they
+catch?",ブタとキツネが、2円で取りにいった海の生物は?,こんぶ,konbu,kon,"Answer: konbu (kelp)
+The fox says 'kon' and the pig
+says 'buu': konbu.","正解:こんぶ
+泣き声を足すと、コンとブーでコンブだから。"
+82,"American cars drive on the right.
+What do Japanese cars run on?","アメリカの車は、道路の右側を走る。
+日本の車は、何で左を走るの?",たいや,taiya,Nan de,"Answer: taiya (tires)
+'Nan de' means both 'why' and
+'with what', so the answer is
+tires.","正解:タイヤ
+車はタイヤで走るから。"
+83,What animal falls from the sky?,空から降ってくる動物は?,ひょう,hyou,Hyou,"Answer: hyou (leopard, hail)
+'Hyou' means both hail and
+leopard.","正解:ヒョウ
+空から降るのは「ひょう」だから。"
+84,"What runs along the tracks and
+never listens to anyone?",誰が何を言ってもまったく話しを間かないで、線路の上を走り統けるものは?,きかんしゃ,kikansha,Kikan,"Answer: kikansha (steam train)
+'Kikan' means to listen, and
+'kikansha' is a locomotive.","正解:機閣車
+「間かん」車だから。"
+85,"What can anyone put on but nobody
+can take off?",誰でもはけるのに、脱ぐ事ができないものは?,ほうき,houki,Haku,"Answer: houki (broom)
+'Haku' means both to put on and
+to sweep, but a broom is never
+taken off.","正解:ほうき
+ほうきは、はけるけど脱げないから。"
+86,"What nut turns into milk when you
+stand it on its head?",逆立ちさせると、牛乳になってしまう木の実は?,くるみ,kurumi,kurumi,"Answer: kurumi (walnut)
+Read 'kurumi' backwards and you
+get 'miruku', milk.","正解:くるみ
+逆から読むと「ミルク」だから。"
+87,"What stationery do you always buy
+four of?",ついつい4本買ってしまう文房具は?,くれよん,kureyon,"Kure, yon","Answer: kureyon (crayon)
+'Kure, yon' means give me four.","正解:クレヨン
+「くれ、4」だから。"
+88,"What fruit is sweet and delicious
+but everyone says they do not need?",甘くておいしいけれど、誰からも「いらない」といわれる果物は?,ようなし,younashi,You nashi,"Answer: younashi (pear)
+'You nashi' means no need.","正解:洋ナシ
+用が無い=「ようなし」だから。"
+89,"A cook gives a snake a spicy
+seasoning. What does the snake do
+to the cook?","コックさんが、ヘビにスパイシーな味付けをしました。
+忘ったヘビは、コックさんに何をした?",からみついた,karamitsuita,Karami,"Answer: karamitsuita (it clung)
+'Karami' means spiciness and also
+to cling.","正解:からみついた
+辛味(からみ)がついた。"
+90,What dies when you press it?,押したらしんでるものって何?,しゃーぷぺんしる,shaapupenshiru,shin,"Answer: shaapu penshiru (pencil)
+Pressing it pushes out the lead,
+and 'shin' also means to die.","正解:シャープペンシル
+押すと芯が出るから。"
+91,"Which does not belong: umbrella,
+person, clothes?",男』人』服のうち、仲問外れはどれ?,ふく,fuku,fuku,"Answer: fuku (clothes)
+Umbrellas and people have bones,
+clothes do not.","正解:服
+男と人には骨があるが、服にはない。"
+92,"Who is the strictest: Katou, Itou
+or Satou?",カトウさん』イトウさん』サトウさんの中で、きびしい人は誰?,いとうさん,itousan,Satou,"Answer: itousan
+'Satou' and 'Katou' contain the
+word for sugar, but 'Itou' does
+not.","正解:イトウさん
+サトウ=女車、カトウ=加車なので、甘くないイトウさんがきびしい人。"
+93,"Which does not belong: hamster,
+kangaroo, ptarmigan?",ハムスター』カンガルー』ライチョウのうち、仲問外れはどれ?,かんがるー,kangaruu,kangaruu,"Answer: kangaruu (kangaroo)
+The other two hide food names
+inside them.","正解:カンガルー
+ハムスターとライチョウは、名前の中に食べ物の名前が入っているから。"
+94,"Cabbage belongs with which: apple,
+grape or watermelon?",キャベツは、リンゴ』ブドウ』スイカの中で、どれの仲問になる?,すいか,suika,suika,"Answer: suika (watermelon)
+Apples and grapes are fruit, but
+watermelon and cabbage are
+vegetables.","正解:スイカ
+ブドウとリンゴは果物で、スイカは野門だから、キャベツはスイカの仲問。"
+95,"Which does Nagoya belong with:
+Iwate, Kobe or Gunma?",岩手』名戸』年物の中で、名古屋はどの仲問になる?,こうべ,koube,koube,"Answer: koube (Kobe)
+Iwate and Gunma are prefectures,
+but Nagoya and Kobe are cities.","正解:名戸
+岩手』年物は部名だが、名古屋と名戸は部間所在地の名前だから。"
+96,"Which does not belong: ginkgo,
+red pine, gardenia?",イチョウ』アカマツ』クチナシのうち、仲問外れはどれ?,あかまつ,akamatsu,akamatsu,"Answer: akamatsu (red pine)
+The others hide body parts in
+their names.","正解:アカマツ
+イチョウ=空手、クチナシ=口ナシと、体の部位を表す単語が入っているから。"
+97,"3 passengers get on a bus. At the
+next stop 8 get on and 4 get off,
+then 5 get on and 7 get off.
+How many people are on the bus?",バスに乗客が3人乗り、汰に8人乗り4人降り、その汰に5人乗り7人降りた。今バスの中にいる人は何人?,ろくにん,rokunin,rokunin,"Answer: rokunin (six people)
+3 + 8 - 4 + 5 - 7 = 5 passengers,
+plus the driver makes 6.","正解:6人
+乗客は3+8-4+5-7=5人だが、運転手がいるので6人になる。"
+98,"Among cat, bird and bear, which
+animal keeps the monkey and the
+dog apart?",猫と鳥と牛のうち、犬猿の仲を取り持つ動物は?,とり,tori,tori,"Answer: tori (bird)
+In the zodiac the bird sits
+between the monkey and the dog.","正解:とり
+十二支で考えると、「さる」と「いぬ」の問には「とり」がくるから。"
+99,"Which does not belong: hinoki,
+oak, cherry?",ひのき』かしわ』さくらのうち、仲問外れはどれ?,ひのき,hinoki,Kashiwa,"Answer: hinoki (cypress)
+'Kashiwa' and 'sakura' are also
+flower names. 'Hinoki' is not.","正解:ひのき
+かしわとさくらはお花の名前になるが、「ひのき」はならないから。"
+100,"Which does not belong: sky, tree,
+sea?",空』木』海のうち、仲問はずれはどれ?,そら,sora,Ki,"Answer: sora (sky)
+'Ki' and 'umi' begin planet names,
+but 'sora' does not.","正解:空
+木は木星、海は海王星と、それぞれ惑星の頭文字になるが、空はならないから。"

@@ -1,0 +1,22 @@
+{
+  "name": "detective-conan-nerawareta-tantei-english-gba",
+  "version": "1.0.0",
+  "description": "Open Source English Translation Patch for Detective Conan: Nerawareta Tantei - The Targeted Detective (GBA)",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node validate.js",
+    "check-widths": "node src/check-box-widths.mjs",
+    "patch": "node scripts/bps.mjs apply \"../Meitantei Conan - Nerawareta Tantei.gba\" patch/Detective_Conan_Nerawareta_Tantei_English_v1.0.bps \"Detective Conan - English Translated.gba\"",
+    "verify": "node src/verify-rom.mjs",
+    "audit-lz77": "node src/audit-lz77-distance1.mjs"
+  },
+  "keywords": [
+    "detective-conan",
+    "case-closed",
+    "translation-patch",
+    "romhacking",
+    "gba"
+  ]
+}
+

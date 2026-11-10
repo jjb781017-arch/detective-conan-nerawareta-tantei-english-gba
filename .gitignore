@@ -1,0 +1,17 @@
+# Temporary build outputs
+build/
+
+# GBA ROMs & saves (never commit copyrighted ROMs)
+*.gba
+*.sav
+*.ss[0-9]*
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Node / Editors
+node_modules/
+.vscode/
+.idea/

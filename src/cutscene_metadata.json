@@ -1,0 +1,454 @@
+[
+  {
+    "hex": "0x1ffc",
+    "title": "Power Kick Shoes Tutorial",
+    "tilesId": 8187,
+    "mapId": 8188,
+    "palOffset": 5818484,
+    "allowedPals": [
+      0,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "hex": "0x23f6",
+    "title": "Mouri Agency Interior Window",
+    "tilesId": 9205,
+    "mapId": 9206,
+    "palOffset": 6392152,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "hex": "0x241e",
+    "title": "Parcel to Shinichi Kudo",
+    "tilesId": 9245,
+    "mapId": 9246,
+    "palOffset": 6411764,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "hex": "0x254b",
+    "title": "Mouri Detective Agency Exterior",
+    "tilesId": 9546,
+    "mapId": 9547,
+    "palOffset": 6594168,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "hex": "0x2587",
+    "title": "Chinese Restaurant Signboard (Sensuirou)",
+    "tilesId": 9606,
+    "mapId": 9607,
+    "palOffset": 6630552,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "hex": "0x259b",
+    "title": "Restaurant Entrance (Daitourou / Neon)",
+    "tilesId": 9626,
+    "mapId": 9627,
+    "palOffset": 6646016,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "hex": "0x25c3",
+    "title": "Martial Arts Dojo Gate Plaque",
+    "tilesId": 9666,
+    "mapId": 9667,
+    "palOffset": 6677636,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "hex": "0x269b",
+    "title": "TV News: Bank Robbery",
+    "tilesId": 9882,
+    "mapId": 9883,
+    "palOffset": 6791000,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "hex": "0x26af",
+    "title": "Teitan Elementary Gate Pillar",
+    "tilesId": 9902,
+    "mapId": 9903,
+    "palOffset": 6803840,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "hex": "0x27b1",
+    "title": "Play With Conan: Event Cutscene 1",
+    "tilesId": 10160,
+    "mapId": 10161,
+    "palOffset": 6968980,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "hex": "0x27c5",
+    "title": "Play With Conan: Event Cutscene 2",
+    "tilesId": 10180,
+    "mapId": 10181,
+    "palOffset": 6981112,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "hex": "0x27eb",
+    "title": "Play With Conan: Event Cutscene 3",
+    "tilesId": 10218,
+    "mapId": 10219,
+    "palOffset": 6996088,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "hex": "0x2811",
+    "title": "Play With Conan: Event Cutscene 4",
+    "tilesId": 10256,
+    "mapId": 10257,
+    "palOffset": 7016436,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x2837",
+    "title": "TV Broadcast Interruption Notice",
+    "tilesId": 10294,
+    "mapId": 10295,
+    "palOffset": 7031236,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x285f",
+    "title": "Play With Conan: Event Cutscene 5",
+    "tilesId": 10334,
+    "mapId": 10335,
+    "palOffset": 7060752,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x2873",
+    "title": "Play With Conan: Event Cutscene 6",
+    "tilesId": 10354,
+    "mapId": 10355,
+    "palOffset": 7070992,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x2887",
+    "title": "Play With Conan: Event Cutscene 7",
+    "tilesId": 10374,
+    "mapId": 10375,
+    "palOffset": 7086072,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x289b",
+    "title": "Security Monitor Bank (Eteko Stage TV)",
+    "tilesId": 10394,
+    "mapId": 10395,
+    "palOffset": 7099812,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "hex": "0x28d8",
+    "title": "Eteko Door Puzzle Screen",
+    "tilesId": 10455,
+    "mapId": 10456,
+    "palOffset": 7127032,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x2914",
+    "title": "Eteko Electronic Device Screen",
+    "tilesId": 10515,
+    "mapId": 10516,
+    "palOffset": 7163784,
+    "allowedPals": [
+      0
+    ]
+  },
+  {
+    "hex": "0x299e",
+    "title": "Stage Audience (Eteko to Asobou Banner)",
+    "tilesId": 10653,
+    "mapId": 10654,
+    "palOffset": 7240868,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x29b2",
+    "title": "Workbench TV News: Recording Explosion",
+    "tilesId": 10673,
+    "mapId": 10674,
+    "palOffset": 7256808,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x29c6",
+    "title": "Ran on Stage Holding Eteko",
+    "tilesId": 10693,
+    "mapId": 10694,
+    "palOffset": 7270224,
+    "allowedPals": [
+      0
+    ]
+  },
+  {
+    "hex": "0x2c74",
+    "title": "Play With Conan: Event Cutscene 8",
+    "tilesId": 11379,
+    "mapId": 11380,
+    "palOffset": 7698936,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "hex": "0x2b06",
+    "title": "Kushima Detective Agency Plaque",
+    "tilesId": 11013,
+    "mapId": 11014,
+    "palOffset": 7474088,
+    "allowedPals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "hex": "0x2be8",
+    "title": "Ghost Doctor Silhouette",
+    "tilesId": 11239,
+    "mapId": 11240,
+    "palOffset": 7634888,
+    "allowedPals": [
+      0,
+      9
+    ]
+  },
+  {
+    "hex": "0x3231",
+    "title": "Eteko Chase Tutorial Screen",
+    "tilesId": 12848,
+    "mapId": 12849,
+    "palOffset": 8227108,
+    "allowedPals": [
+      0,
+      1,
+      2
+    ]
+  }
+]

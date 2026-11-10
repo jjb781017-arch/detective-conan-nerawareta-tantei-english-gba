@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Detective Conan: Nerawareta Tantei — Online Patcher</title>
+</head>
+<body>
+  <h1>Detective Conan: Nerawareta Tantei</h1>
+  <p>English Fan Translation Online Patcher</p>
+
+  <p>
+    <label for="romFile" style="cursor: pointer;">
+      <strong>Tap to Select Japanese ROM (.gba)</strong><br />
+      or drag and drop your ROM file here
+    </label><br />
+    <input type="file" id="romFile" accept=".gba,.bin" />
+  </p>
+
+  <p>
+    <button id="patchBtn" disabled>Apply Patch &amp; Download</button>
+  </p>
+
+  <p id="status"></p>
+
+  <script>
+    const PATCH_URL = './patch/Detective_Conan_Nerawareta_Tantei_English_v1.0.bps';
+    const statusEl = document.getElementById('status');
+    const romInput = document.getElementById('romFile');
+    const patchBtn = document.getElementById('patchBtn');
+
+    let patchBuffer = null;
+    let romBuffer = null;
+
+    // CRC32 implementation
+    const crcTable = new Uint32Array(256);
+    for (let i = 0; i < 256; i++) {
+      let c = i;
+      for (let k = 0; k < 8; k++) c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+      crcTable[i] = c;
+    }
+    function crc32(b) {
+      let c = 0 ^ (-1);
+      for (let i = 0; i < b.length; i++) c = (c >>> 8) ^ crcTable[(c ^ b[i]) & 0xFF];
+      return (c ^ (-1)) >>> 0;
+    }
+
+    function readVlq(buf, posRef) {
+      let val = 0, shift = 1;
+      while (true) {
+        if (posRef.pos >= buf.length) throw new Error('Unexpected EOF reading patch');
+        const b = buf[posRef.pos++];
+        val += (b & 0x7f) * shift;
+        if (b & 0x80) break;
+        shift <<= 7;
+        val += shift;
+      }
+      return val;
+    }
+
+    function applyBps(source, patch) {
+      if (patch.length < 16) throw new Error('Patch file is too small');
+      const magic = String.fromCharCode(patch[0], patch[1], patch[2], patch[3]);
+      if (magic !== 'BPS1') throw new Error('Invalid BPS patch file');
+
+      const posRef = { pos: 4 };
+      const sLen = readVlq(patch, posRef);
+      const dLen = readVlq(patch, posRef);
+      const mLen = readVlq(patch, posRef);
+      posRef.pos += mLen;
+
+      // Auto-strip copier header if present (e.g. 512 bytes extra)
+      if (source.length === sLen + 512) {
+        source = source.subarray(512);
+      }
+
+      if (source.length !== sLen) {
+        throw new Error(`ROM size mismatch: Expected ${sLen} bytes, but selected file is ${source.length} bytes.`);
+      }
+
+      const target = new Uint8Array(dLen);
+      let tPos = 0, sOff = 0, tOff = 0;
+
+      while (posRef.pos < patch.length - 12) {
+        const d = readVlq(patch, posRef);
+        const action = d & 3;
+        const length = (d >>> 2) + 1;
+
+        if (action === 0) {
+          target.set(source.subarray(tPos, tPos + length), tPos);
+          tPos += length;
+        } else if (action === 1) {
+          target.set(patch.subarray(posRef.pos, posRef.pos + length), tPos);
+          posRef.pos += length;
+          tPos += length;
+        } else if (action === 2) {
+          const od = readVlq(patch, posRef);
+          sOff += (od & 1 ? -1 : 1) * (od >>> 1);
+          target.set(source.subarray(sOff, sOff + length), tPos);
+          tPos += length;
+          sOff += length;
+        } else if (action === 3) {
+          const od = readVlq(patch, posRef);
+          tOff += (od & 1 ? -1 : 1) * (od >>> 1);
+          for (let i = 0; i < length; i++) target[tPos + i] = target[tOff + i];
+          tPos += length;
+          tOff += length;
+        }
+      }
+
+      const expectedTargetCrc = (patch[patch.length - 8] | (patch[patch.length - 7] << 8) | (patch[patch.length - 6] << 16) | (patch[patch.length - 5] << 24)) >>> 0;
+      const actualTargetCrc = crc32(target);
+      if (actualTargetCrc !== expectedTargetCrc) {
+        throw new Error('CRC32 checksum mismatch on patched output. Please verify your source ROM.');
+      }
+
+      return target;
+    }
+
+    // Preload patch
+    fetch(PATCH_URL)
+      .then(res => {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.arrayBuffer();
+      })
+      .then(buf => {
+        patchBuffer = new Uint8Array(buf);
+        if (romBuffer) patchBtn.disabled = false;
+      })
+      .catch(err => {
+        statusEl.textContent = 'Failed to load patch (' + err.message + ').';
+      });
+
+    // Handle ROM selection
+    function handleRomFile(file) {
+      if (!file) return;
+      statusEl.textContent = 'Selected: ' + file.name;
+      const reader = new FileReader();
+      reader.onload = ev => {
+        romBuffer = new Uint8Array(ev.target.result);
+        if (patchBuffer) {
+          patchBtn.disabled = false;
+        }
+      };
+      reader.readAsArrayBuffer(file);
+    }
+
+    romInput.addEventListener('change', e => handleRomFile(e.target.files[0]));
+
+    // Drag and drop anywhere on the page
+    window.addEventListener('dragover', e => e.preventDefault());
+    window.addEventListener('drop', e => {
+      e.preventDefault();
+      if (e.dataTransfer.files && e.dataTransfer.files.length) {
+        handleRomFile(e.dataTransfer.files[0]);
+      }
+    });
+
+    // Apply patch button
+    patchBtn.addEventListener('click', () => {
+      if (!romBuffer || !patchBuffer) return;
+      patchBtn.disabled = true;
+      statusEl.textContent = 'Patching...';
+
+      setTimeout(() => {
+        try {
+          const patched = applyBps(romBuffer, patchBuffer);
+          const blob = new Blob([patched], { type: 'application/octet-stream' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = 'Detective Conan - English Translated.gba';
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(url);
+
+          statusEl.textContent = 'Success! Patched ROM downloaded.';
+          patchBtn.disabled = false;
+        } catch (err) {
+          statusEl.textContent = 'Error: ' + err.message;
+          patchBtn.disabled = false;
+        }
+      }, 50);
+    });
+  </script>
+</body>
+</html>

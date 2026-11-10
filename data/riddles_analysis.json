@@ -1,0 +1,1002 @@
+[
+  {
+    "cardId": 1,
+    "questionEn": "Read the coded message and\nanswer the question inside it.\nHint: put the pieces in number\norder.\nQ: 5de 8tori 3ito 1yubi\n6ki 9to 4de 2to 7ta 10ha?",
+    "questionJp": "汰の暗号文を読んで\nそこに書かれた問題に答えよ。\nヒント:数の順に並び替えると』』』\n\n問:5で8鳥3糸1指6き\n9と4で2と7た10は?",
+    "answerKana": "あやとり",
+    "answerRomaji": "ayatori",
+    "answerEnMeaning": "What bird is made from fingers and thread?",
+    "explanationEn": "Answer: ayatori\nIn number order the pieces read:\n1yubi 2to 3ito 4de 5de 6ki\n7ta 8tori 9to 10ha\n'What bird is made from fingers\nand thread?' A cat's cradle.",
+    "rawExplanationJp": "正解:あやとり\n数の順番通りに文字を並び替えると\n1指2と3糸4で5で6き\n7た8鳥9と10は?\n「指と糸でできた鳥とは?」となる。"
+  },
+  {
+    "cardId": 2,
+    "questionEn": "Solve the coded sum.\nHint: read each kanji as a Japanese\nnumber word.\nQ: mountain + word + paper\n- hurry = ?",
+    "questionJp": "汰の暗号文による計算を解け。\nヒント:算=3死=4重=10\n\n問:山+語+紙-急=?",
+    "answerKana": "さん",
+    "answerRomaji": "san",
+    "answerEnMeaning": "san",
+    "explanationEn": "Answer: san (3)\nThe kanji are read as number\nwords: san(3) go(5) shi(4)\nkyuu(9).\n3 + 5 + 4 - 9 = 3.",
+    "rawExplanationJp": "正解:3\n漢字をひらがなにすると\n山=さん語=ご紙=し急=きゅう3+5+4-9=3となる。"
+  },
+  {
+    "cardId": 3,
+    "questionEn": "Put a jewel in your mouth.\nWhat do you get?\nHint: this is a kanji puzzle.",
+    "questionJp": "汰の暗号文を読んで\nそこに書かれた問題に答えよ。\nヒント:「上」の上、「下」の下を順番に読むと』』』\n\n問:口下玉下く下え下と下に下る下\n上に上を上わ上る上何上な上?",
+    "answerKana": "くに",
+    "answerRomaji": "kuni",
+    "answerEnMeaning": "kuni",
+    "explanationEn": "Answer: kuni (country)\nThe kanji for mouth (kuchi)\ninside the kanji for jewel (tama)\nmakes the kanji for country.",
+    "rawExplanationJp": "正解:国\n「上」の上に書かれた文字と\n「下」の下に書かれた文字を\n順番に読んでいくと\n「口に玉をくわえると何になる?」\nと読める。\nよって答えは、口+玉=「国」となる。"
+  },
+  {
+    "cardId": 4,
+    "questionEn": "Read every other letter to find the\nquestion:\nWxHxAxTxBxUxGxIxSxIxNx1xTxOx1x0",
+    "questionJp": "汰の暗号文を読んで\nそこに書かれた問題に答えよ。\nヒント:1文字おきに読むと』』』\n\n問:いなちかかにらかじくゅれうてまいでるのむすしうとじはの?",
+    "answerKana": "はち",
+    "answerRomaji": "hachi",
+    "answerEnMeaning": "eight",
+    "explanationEn": "Answer: hachi\nIn Japanese hachi means both\n'eight' and 'bee', so a bee\nhides in the numbers 1 to 10.",
+    "rawExplanationJp": "正解:ハチ\n1文字おきに文字を読むと』』\n「いちからじゅうまでのすうじのなかにかくれているむしとは?」となる。"
+  },
+  {
+    "cardId": 5,
+    "questionEn": "Read it backwards:\n?etisoppo eht fo etisoppo si tahW",
+    "questionJp": "汰の暗号文を読んで\nそこに書かれた問題に答えよ。\nヒント:反対から読むと』』』\n\n問:?はいたんはのいたんは",
+    "answerKana": "さんせい",
+    "answerRomaji": "sansei",
+    "answerEnMeaning": "What is opposite of the opposite?",
+    "explanationEn": "Answer: sansei (I agree)\n'What is opposite of the\nopposite?' The opposite of\nno is yes, so you agree.",
+    "rawExplanationJp": "正解:賛成\n文字を反対にして読むと』』』\n「はんたいのはんたいは?」となる。"
+  },
+  {
+    "cardId": 6,
+    "questionEn": "Each kana keeps its consonant and\ntakes a vowel from the number:\n1=a 2=i 3=u 4=e 5=o.\nna2 sa4 ma5 na5 na5\nha1 wa3 ta1 a2 ha1 ?",
+    "questionJp": "汰の暗号文を読んで\nそこに書かれた問題に答えよ。\nヒント:あ1=あか2=きさ3=す\n問:な2さ4ま5な5な5\nは1わ3た1あ2は1?",
+    "answerKana": "ほんもの",
+    "answerRomaji": "honmono",
+    "answerEnMeaning": "What is the opposite of a fake?",
+    "explanationEn": "Answer: honmono (the real thing)\nna2=ni sa4=se ma5=mo\nna5=no na5=no ha1=ha\nwa3=wa ta1=ta a2=i ha1=ha\n'What is the opposite of a fake?'",
+    "rawExplanationJp": "正解:本物\n暗号文は汰の通り。\nな2=にさ4=せま5=も\nな5=のな5=のは1=は\nわ3=んた1=たあ2=い\nは1=は?\n「にせもののはんたいは?」となる。"
+  },
+  {
+    "cardId": 7,
+    "questionEn": "Solve the coded sum.\nHint: count the brush strokes of\neach kanji.\nQ: e + dai + iri - iki = ?",
+    "questionJp": "汰の暗号文による計算を解け。\nヒント:江=6戸=4川=3\n\n問:竹+大+入-生=?",
+    "answerKana": "ろく",
+    "answerRomaji": "roku",
+    "answerEnMeaning": "roku",
+    "explanationEn": "Answer: roku (six)\ne=6 dai=3 iri=2 iki=5\n6 + 3 + 2 - 5 = 6.",
+    "rawExplanationJp": "正解:6\n漢字の画数を\n数字に置き換えて計算すると\n竹=6大=3入=2生=5\n6+3+2-5=6となる。"
+  },
+  {
+    "cardId": 8,
+    "questionEn": "Read the letters between numbers\nin order to find the question:\n1WHAT2IS3POLICE4CALLED\n5IN6ENGLISH7",
+    "questionJp": "汰の暗号文を読んで\nそこに書かれた問題に答えよ。\nヒント:数字の順番に文字を読め\n\n15はつ4きて\nえなぬはさもけ\nい6んという7\n2ごでけ3るへ",
+    "answerKana": "ぽりす",
+    "answerRomaji": "porisu",
+    "answerEnMeaning": "What is police called in English?",
+    "explanationEn": "Answer: porisu (police)\nThe code reads: 'What is police\ncalled in English?'\nThe answer is police.",
+    "rawExplanationJp": "正解:ポリス\n暗号文は汰の通り。\n1から2が「えい」\n2から3が「ごでけ」\n3から4が「いさ」\n4から5が「つは」\n5から6が「な」\n6から7が「んという」\n「英語で警察は何と言う?」になる。"
+  },
+  {
+    "cardId": 9,
+    "questionEn": "Take the kana ko, u and no out of\nthis sentence, then read it:\n'kofuyu gau owaru tono nani ga\nkuru?'\nWhat is the answer?",
+    "questionJp": "汰の暗号文を読んで\nそこに書かれた問題に答えよ。\nヒント:コウノトリからの手紙\n\n問:「不幸の湯がおの割ると何がこく残る?」",
+    "answerKana": "はる",
+    "answerRomaji": "haru",
+    "answerEnMeaning": "fuyu ga owaru to nani ga kuru?",
+    "explanationEn": "Answer: haru (spring)\nWhat is left reads: 'fuyu ga owaru\nto nani ga kuru?' When winter ends,\nwhat comes? Spring.",
+    "rawExplanationJp": "正解:春\n漢字をすべて「ひらがな」にして\nこの文から「こ」「う」「の」を取ると「ふゆがおわるとなにがくる?」\nとなる。"
+  },
+  {
+    "cardId": 10,
+    "questionEn": "A pyramid has 100 steps.\nEach year you climb 20 steps but\nslide back 10.\nHow many years to reach the top?",
+    "questionJp": "「1年に20段のぼって10段降りる」この方法で、100段あるピラミッドの頂上に若くには、何年必要か?",
+    "answerKana": "9",
+    "answerRomaji": "9",
+    "answerEnMeaning": "kyuunen",
+    "explanationEn": "Answer: kyuunen (nine years)\nYou gain only 10 steps a year,\nso it seems to take 10 years.\nBut in year 9 you climb 20 and\nreach the top.",
+    "rawExplanationJp": "正解:9年\n1年に10段ずつしかのぼれないので、100段のぼるには10年かかるように思えるが、実際は9年目に20段のぼった時点で頂上に若く。"
+  },
+  {
+    "cardId": 11,
+    "questionEn": "In English a cat is a 'cat'.\nA dog is a 'dog'.\nSo what is a kappa?",
+    "questionJp": "英語で、猫は「キャット」。\n犬は「ドック」。\nではカッパは?",
+    "answerKana": "れいんこーと",
+    "answerRomaji": "reinkooto",
+    "answerEnMeaning": "reinkooto",
+    "explanationEn": "Answer: reinkooto (raincoat)\nA Japanese raincoat is called a\nraincoat in English.",
+    "rawExplanationJp": "正解:レインコート\n雨合羽(あまがっぱ)は英語で\nレインコート。"
+  },
+  {
+    "cardId": 12,
+    "questionEn": "The building looks Western, but\nthey serve you a Japanese sweet.\nWhat sweet is it?",
+    "questionJp": "外国風の建物なのに、遊びに行くと出されるのは日本のお菓子。\nそれは何というお菓子?",
+    "answerKana": "ようかん",
+    "answerRomaji": "youkan",
+    "answerEnMeaning": "youkan",
+    "explanationEn": "Answer: youkan\nA Western-style building is a\nyoukan, and the sweet served\nthere is youkan too.",
+    "rawExplanationJp": "正解:ようかん\n外国風の建物は「洋館」で、出されるお菓子は「ようかん」だから。"
+  },
+  {
+    "cardId": 13,
+    "questionEn": "What insect can only write in\nhiragana?",
+    "questionJp": "ひらがなでしか文字が書くことができない虫は?",
+    "answerKana": "かなぶん",
+    "answerRomaji": "kanabun",
+    "answerEnMeaning": "Kanabun",
+    "explanationEn": "Answer: kanabun (flower chafer)\n'Kanabun' sounds like 'kana bun',\nwhich means kana writing.",
+    "rawExplanationJp": "正解:カナブン\nひらがなの文字は、仮名文(かなぶん)だから。"
+  },
+  {
+    "cardId": 14,
+    "questionEn": "What kind of bread can you cook\nwith but never eat?",
+    "questionJp": "食べることはできないけど\n料理には使えるパンは?",
+    "answerKana": "ふらいぱん",
+    "answerRomaji": "furaipan",
+    "answerEnMeaning": "furaipan",
+    "explanationEn": "Answer: furaipan (frying pan)\nYou can cook with a frying pan,\nbut you cannot eat the pan.",
+    "rawExplanationJp": "正解:フライパン\n料理はできても、フライパン本体は食べられないから。"
+  },
+  {
+    "cardId": 15,
+    "questionEn": "You eat a candy and suddenly\nbreathe fire. What flavor is it?",
+    "questionJp": "ある度を食べたら突然県をふいた。\n一体何味の度?",
+    "answerKana": "はっか",
+    "answerRomaji": "hakka",
+    "answerEnMeaning": "Hakka",
+    "explanationEn": "Answer: hakka (mint)\n'Hakka' sounds like the word for\ncatching fire.",
+    "rawExplanationJp": "正解:ハッカ\n県が出る=発県(ハッカ)だから。"
+  },
+  {
+    "cardId": 16,
+    "questionEn": "Snack time is 3 o'clock.\nSo what time is breakfast?\nHint: listen to the word for\nbreakfast.",
+    "questionJp": "おやつは3時。\nでは、あさごはんは何じ?",
+    "answerKana": "ごじ",
+    "answerRomaji": "goji",
+    "answerEnMeaning": "Asagohan",
+    "explanationEn": "Answer: goji (5 o'clock)\n'Asagohan' (breakfast) begins\nwith 'go', the word for five, so\nbreakfast is at five.",
+    "rawExplanationJp": "正解:5(文)字。"
+  },
+  {
+    "cardId": 17,
+    "questionEn": "You have 2 bouquets and 3 more\nbouquets. How many bouquets do\nyou have together?",
+    "questionJp": "花たばが、2たばと3たばあります。\n合わせると何たばになる?",
+    "answerKana": "ひとたば",
+    "answerRomaji": "hitotaba",
+    "answerEnMeaning": "hitotaba",
+    "explanationEn": "Answer: hitotaba (one bunch)\nYou tie them all into one bunch.",
+    "rawExplanationJp": "正解:1たば\n1つにたばねるから。"
+  },
+  {
+    "cardId": 18,
+    "questionEn": "What number fills the blank?\n500 10 100 ? 50 1\nHint: the answer is a Japanese\nnumber word.",
+    "questionJp": "汰の?に入る数字はいくつ?\n50010100?501",
+    "answerKana": "ご",
+    "answerRomaji": "go",
+    "answerEnMeaning": "go",
+    "explanationEn": "Answer: go (five)\nThe missing number is five, and\n'go' is the Japanese word for it.",
+    "rawExplanationJp": "正解:5\n数字の大きい順番。"
+  },
+  {
+    "cardId": 19,
+    "questionEn": "What fruit never ripens, no matter\nhow long you wait?",
+    "questionJp": "いくら時問をかけても\n古さない果物とは?",
+    "answerKana": "みかん",
+    "answerRomaji": "mikan",
+    "answerEnMeaning": "Mikan",
+    "explanationEn": "Answer: mikan (orange)\n'Mikan' sounds like the word for\nnot yet finished.",
+    "rawExplanationJp": "正解:みかん\n未完(みかん)だから。"
+  },
+  {
+    "cardId": 20,
+    "questionEn": "Is a hawk male or female?",
+    "questionJp": "タカはオスでしょうか?\nメスでしょうか?",
+    "answerKana": "おす",
+    "answerRomaji": "osu",
+    "answerEnMeaning": "osu",
+    "explanationEn": "Answer: osu (male)\nThe kanji for field plus the kana\nka makes the kanji for man.",
+    "rawExplanationJp": "正解:オス\n「田」に「カ」で男だから。"
+  },
+  {
+    "cardId": 21,
+    "questionEn": "Take one dog from a hundred dogs.\nWhat color is the dog left?",
+    "questionJp": "百円の犬から一円の犬が居なくなった。残った犬は何色?",
+    "answerKana": "しろ",
+    "answerRomaji": "shiro",
+    "answerEnMeaning": "Hundred",
+    "explanationEn": "Answer: shiro (white)\n'Hundred' minus 'one' leaves the\nkanji for white.",
+    "rawExplanationJp": "正解:しろ\n「百」-「一」=「白」だから。"
+  },
+  {
+    "cardId": 22,
+    "questionEn": "When you ask where something is,\nno matter how far away, they say\n'it is right nearby'.\nWhat shop is that?",
+    "questionJp": "場所をたずねた時\nどんなに遠くにあっても\n「すぐ近くにある」\nと言われるお店は何屋さん?",
+    "answerKana": "そばや",
+    "answerRomaji": "sobaya",
+    "answerEnMeaning": "Nearby",
+    "explanationEn": "Answer: sobaya (soba shop)\n'Nearby' is 'soba', which is\nalso the word for buckwheat\nnoodles.",
+    "rawExplanationJp": "正解:そば屋\n「近く」=「そば」だから。"
+  },
+  {
+    "cardId": 23,
+    "questionEn": "What vehicle carries people but\nnever moves forward, back, left\nor right?",
+    "questionJp": "人を運ぶ乗り物で\n前にも後ろにも、右にも左にも動かない乗り物は何か?",
+    "answerKana": "えれべーたー",
+    "answerRomaji": "erebeetaa",
+    "answerEnMeaning": "erebeetaa",
+    "explanationEn": "Answer: erebeetaa (elevator)\nAn elevator only moves up and\ndown.",
+    "rawExplanationJp": "正解:エレベーター\nエレベーターは\n上と下にしか動かないから。"
+  },
+  {
+    "cardId": 24,
+    "questionEn": "What boat never floats and lets\nwater pour inside?",
+    "questionJp": "船なのに水に浮かばないで\n中に水が入ってしまう船は何か?",
+    "answerKana": "ゆぶね",
+    "answerRomaji": "yubune",
+    "answerEnMeaning": "yubune",
+    "explanationEn": "Answer: yubune (bathtub)\nA hot bath is the boat you sit\nin, and it is full of water.",
+    "rawExplanationJp": "正解:湯船\nお風呂の湯船。"
+  },
+  {
+    "cardId": 25,
+    "questionEn": "What sea creature gets lighter\nwhen it stands on its head?",
+    "questionJp": "逆立ちすれば軽くなる海の生物は?",
+    "answerKana": "いるか",
+    "answerRomaji": "iruka",
+    "answerEnMeaning": "iruka",
+    "explanationEn": "Answer: iruka (dolphin)\nRead 'iruka' backwards and you\nget 'karui', meaning light.",
+    "rawExplanationJp": "正解:イルカ\nイルカを逆から読むと\nカルイになるから。"
+  },
+  {
+    "cardId": 26,
+    "questionEn": "What animal always has a bird\nsitting on its head?",
+    "questionJp": "頭の上に鳥がとまっているという\n動物は?",
+    "answerKana": "かもしか",
+    "answerRomaji": "kamoshika",
+    "answerEnMeaning": "kamo",
+    "explanationEn": "Answer: kamoshika (serow)\nPut the bird 'kamo' on top of\n'shika' (deer) and you get\nkamoshika.",
+    "rawExplanationJp": "正解:カモシカ\n「シカ」の上に鳥の「カモ」を乗せると「カモシカ」になるから。"
+  },
+  {
+    "cardId": 27,
+    "questionEn": "There are 5 televisions. They are\nall on and too loud, so you turn\n2 of them off. How many are left?",
+    "questionJp": "5台のテレビがあります。\n全部つけているとうるさいので\n2つ消しました。残ったのは何台?",
+    "answerKana": "ごだい",
+    "answerRomaji": "godai",
+    "answerEnMeaning": "godai",
+    "explanationEn": "Answer: godai (five sets)\nTurning them off does not remove\nthem, so there are still five.",
+    "rawExplanationJp": "正解:5台\nテレビ自体は消えないから。"
+  },
+  {
+    "cardId": 28,
+    "questionEn": "What bread does nobody ever pay\nattention to?",
+    "questionJp": "いつも誰にも相手にされないパンは何?",
+    "answerKana": "むしぱん",
+    "answerRomaji": "mushipan",
+    "answerEnMeaning": "Mushi",
+    "explanationEn": "Answer: mushipan (steamed bread)\n'Mushi' sounds like the word for\nignoring someone.",
+    "rawExplanationJp": "正解:むしパン\n無視(むし)パンだから。"
+  },
+  {
+    "cardId": 29,
+    "questionEn": "What game can a gorilla and a\ncrocodile play, but a lion and a\ngiraffe cannot?",
+    "questionJp": "ゴリラやワニならできて\nライオンやキリンにはできないものは?",
+    "answerKana": "しりとり",
+    "answerRomaji": "shiritori",
+    "answerEnMeaning": "n",
+    "explanationEn": "Answer: shiritori (word chain)\nIn Japanese their names end in\n'n', and a word chain cannot end\nwith 'n'.",
+    "rawExplanationJp": "正解:しりとり\n「ン」がついてしまうから。"
+  },
+  {
+    "cardId": 30,
+    "questionEn": "What vehicle runs away at double\nspeed when you chase it?",
+    "questionJp": "追いかけられると\n倍のスピードで逃げだす乗り物は?",
+    "answerKana": "おーとばい",
+    "answerRomaji": "ootobai",
+    "answerEnMeaning": "Ou",
+    "explanationEn": "Answer: ootobai (motorbike)\n'Ou' means to chase, so chasing\ngives 'ou-to-bai'.",
+    "rawExplanationJp": "正解:オートバイ\n追うと倍=オートバイだから。"
+  },
+  {
+    "cardId": 31,
+    "questionEn": "Two trees make a grove.\nThree trees make a forest.\nWhat do five trees make?",
+    "questionJp": "木が2つで林。木が3つで森。\nでは、5つで何になる?",
+    "answerKana": "しんりん",
+    "answerRomaji": "shinrin",
+    "answerEnMeaning": "shinrin",
+    "explanationEn": "Answer: shinrin (forest)\nFive trees still make a forest.",
+    "rawExplanationJp": "正解:しんりん\n木が5つで「森林」。"
+  },
+  {
+    "cardId": 32,
+    "questionEn": "A big bird can fall and make no\nsound, but a small bird makes a\nsound when it falls. What sound?",
+    "questionJp": "大きな鳥が倒れてもしないが、小さな鳥が倒れると、ある音がするという。\nどんな音?",
+    "answerKana": "ことり",
+    "answerRomaji": "kotori",
+    "answerEnMeaning": "kotori",
+    "explanationEn": "Answer: kotori (small bird)\nA small bird is 'kotori', which\nsounds like 'koto-ri'.",
+    "rawExplanationJp": "正解:ことり\n小さな鳥=コトリ(小鳥)だから。"
+  },
+  {
+    "cardId": 33,
+    "questionEn": "What electric item tingles when\nyou touch it after giving blood?",
+    "questionJp": "血を抜いた後にさわると\nビリビリする電気用品は?",
+    "answerKana": "かんでんち",
+    "answerRomaji": "kandenchi",
+    "answerEnMeaning": "chi",
+    "explanationEn": "Answer: kandenchi (battery)\nTake 'chi' from 'kandenchi' and\nyou get 'kanden', an electric\nshock.",
+    "rawExplanationJp": "正解:乾電池\n乾電池(かんでんち)から「ち」を取ると、感電(かんでん)になるから。"
+  },
+  {
+    "cardId": 34,
+    "questionEn": "What flower does a mouse always\ncarry in its mouth?",
+    "questionJp": "ネズミが、いつでも口にくわえている花は?",
+    "answerKana": "ちゅーりっぷ",
+    "answerRomaji": "chuurippu",
+    "answerEnMeaning": "chuu",
+    "explanationEn": "Answer: chuurippu (tulip)\nA mouse says 'chuu', and lips are\n'rippu'. Together: chuurippu.",
+    "rawExplanationJp": "正解:チューリップ\nネズミの「チュー」と\nくちびるは英語で「リップ」\n足してチューリップ。"
+  },
+  {
+    "cardId": 35,
+    "questionEn": "In what American city does a die\nonly ever roll 4 or 5?",
+    "questionJp": "何度サイコロをふっても、4か5しか出ないアメリカの都市はどこ?",
+    "answerKana": "しかご",
+    "answerRomaji": "shikago",
+    "answerEnMeaning": "Shika go",
+    "explanationEn": "Answer: shikago (Chicago)\n'Shika go' means only four or\nfive.",
+    "rawExplanationJp": "正解:シカゴ\n4か5=しかご(シカゴ)だから。"
+  },
+  {
+    "cardId": 36,
+    "questionEn": "You cast a spell on a king and he\ngrows two horns and a tail.\nWhat did he become?",
+    "questionJp": "王様に魔法をかけたら\n角が2本とシッポが生えてきた。\n何に変身した?",
+    "answerKana": "ひつじ",
+    "answerRomaji": "hitsuji",
+    "answerEnMeaning": "hitsuji",
+    "explanationEn": "Answer: hitsuji (sheep)\nAdd two horns and a tail to the\nkanji for king and you get the\nkanji for sheep.",
+    "rawExplanationJp": "正解:ひつじ\n「王」の文字に\n角が2本とシッポを生やすと\n「羊」になる。"
+  },
+  {
+    "cardId": 37,
+    "questionEn": "What creature appears when a\nmouse meets a fox?",
+    "questionJp": "ネズミとキツネが出会うと\n姿を表わす生き物は?",
+    "answerKana": "こんちゅう",
+    "answerRomaji": "konchuu",
+    "answerEnMeaning": "kon",
+    "explanationEn": "Answer: konchuu (insect)\nThe fox says 'kon' and the mouse\nsays 'chuu': konchuu.",
+    "rawExplanationJp": "正解:昆虫\nそれぞれの鳴き声を合わせると\n「コン」と「チュウ」で「昆虫」。"
+  },
+  {
+    "cardId": 38,
+    "questionEn": "What flower is always running?",
+    "questionJp": "いつも走ってばかりいる花は?",
+    "answerKana": "らん",
+    "answerRomaji": "ran",
+    "answerEnMeaning": "Run",
+    "explanationEn": "Answer: ran (orchid)\n'Run' in English is 'ran'.",
+    "rawExplanationJp": "正解:らん\n「走る」は\n英語でR(ラン)だから。"
+  },
+  {
+    "cardId": 39,
+    "questionEn": "Which part of Japan takes 63 days\nto travel through?\nHint: one week is 7 days.",
+    "questionJp": "旅をする時には、63日もかかってしまうという、日本のある地方とはどこ?\nヒント:1週問は7日",
+    "answerKana": "きゅうしゅう",
+    "answerRomaji": "kyuushuu",
+    "answerEnMeaning": "kyuu shuu",
+    "explanationEn": "Answer: kyuushuu\n63 days is 9 weeks, and nine\nweeks is 'kyuu shuu'.",
+    "rawExplanationJp": "正解:九州\n63日は週に直すと\n9週問(9週)だから。"
+  },
+  {
+    "cardId": 40,
+    "questionEn": "It is on a person's face, but on\nthe head of a bottle.\nWhat is it?",
+    "questionJp": "人問には顔についてるのに\nビンには頭についてるものは何?",
+    "answerKana": "くち",
+    "answerRomaji": "kuchi",
+    "answerEnMeaning": "kuchi",
+    "explanationEn": "Answer: kuchi (mouth)\nA bottle has a mouth on top.",
+    "rawExplanationJp": "正解:口\nビンには、頭に飲み口がついている。"
+  },
+  {
+    "cardId": 41,
+    "questionEn": "A fox stands on its tail and\nplays under a leaf. What game?",
+    "questionJp": "キツネが逆立ちして\n葉っぱの下でする遊びは?",
+    "answerKana": "はねつき",
+    "answerRomaji": "hanetsuki",
+    "answerEnMeaning": "netsuki",
+    "explanationEn": "Answer: hanetsuki (battledore)\nA standing fox is 'netsuki', and\nadding 'ha' gives hanetsuki.",
+    "rawExplanationJp": "正解:はねつき\nキツネが逆立ち=「ネツキ」で\nその上に「ハ」をつけると\n「はねつき」だから。"
+  },
+  {
+    "cardId": 42,
+    "questionEn": "What is polite to say before\na meal?",
+    "questionJp": "食事の前にくと\nおぎょうぎが良い物は何?",
+    "answerKana": "いた",
+    "answerRomaji": "ita",
+    "answerEnMeaning": "Itadakimasu",
+    "explanationEn": "Answer: ita (board)\n'Itadakimasu' starts with 'ita',\nwhich means board.",
+    "rawExplanationJp": "正解:板\n板きます(いただきます)だから。"
+  },
+  {
+    "cardId": 43,
+    "questionEn": "A cheetah does not have it, but a\ntiger does. The mountains do not,\nbut the sea does. What is it?",
+    "questionJp": "チーターに無いのに、トラに有る。\n山に無いのに、海にある物とは何?",
+    "answerKana": "しま",
+    "answerRomaji": "shima",
+    "answerEnMeaning": "shima",
+    "explanationEn": "Answer: shima (stripes, island)\nA tiger has stripes and the sea\nhas islands. Both are 'shima'.",
+    "rawExplanationJp": "正解:しま\nトラはシマ模様。海には島がある。"
+  },
+  {
+    "cardId": 44,
+    "questionEn": "How do you turn a big block of ice\ninto water in one second?",
+    "questionJp": "大きな氷をたった1秒で水にするには\n何をかくせばいい?",
+    "answerKana": "てん",
+    "answerRomaji": "ten",
+    "answerEnMeaning": "ten",
+    "explanationEn": "Answer: ten (dot)\nRemove the dot from the kanji for\nice and it becomes water.",
+    "rawExplanationJp": "正解:てん\n氷の「点」をかくせば水になる。"
+  },
+  {
+    "cardId": 45,
+    "questionEn": "A bear scores 0 on a test.\nIn which prefecture is the test?",
+    "questionJp": "クマの合格点が0という試験は、何部でおこなわれる?",
+    "answerKana": "くまもとけん",
+    "answerRomaji": "kumamotoken",
+    "answerEnMeaning": "Kuma mo token",
+    "explanationEn": "Answer: kumamotoken\n(Kumamoto Prefecture)\n'Kuma mo token' means even a bear\ncannot solve it.",
+    "rawExplanationJp": "正解:熊本部\n「クマも解けん」だから。"
+  },
+  {
+    "cardId": 46,
+    "questionEn": "What plant always confesses its\nlove with a racing heart?",
+    "questionJp": "いつもドキドキしながら\n恋の告白をする植物とは?",
+    "answerKana": "すすき",
+    "answerRomaji": "susuki",
+    "answerEnMeaning": "Su, suki!",
+    "explanationEn": "Answer: susuki (pampas grass)\n'Su, suki!' means I, I like you!",
+    "rawExplanationJp": "正解:ススキ\n「す、好き!」=ススキだから。"
+  },
+  {
+    "cardId": 47,
+    "questionEn": "Written down it has three corners,\nbut drawn on paper it is round.\nWhat is it?",
+    "questionJp": "字に書くとサンカクだが\n紙に描くと、まるいのは何?",
+    "answerKana": "まる",
+    "answerRomaji": "maru",
+    "answerEnMeaning": "maru",
+    "explanationEn": "Answer: maru (circle)\nDrawn on paper it is round, but\nwritten it takes three strokes.",
+    "rawExplanationJp": "正解:丸\n紙に描くと○だが\n字に書くと三画になるから。"
+  },
+  {
+    "cardId": 48,
+    "questionEn": "In the mountains you bang a stone\nand a tree together. Which one\nsays ouch?",
+    "questionJp": "山の中で、石と木をぶつけてみた。\n「痛い」と言ったのはどっち?",
+    "answerKana": "いし",
+    "answerRomaji": "ishi",
+    "answerEnMeaning": "ishi",
+    "explanationEn": "Answer: ishi (stone)\nThe kanji for stone contains the\nkanji for mouth.",
+    "rawExplanationJp": "正解:石\n石には口があるから。"
+  },
+  {
+    "cardId": 49,
+    "questionEn": "What kind of udon is 'chitsuteto'\nudon?",
+    "questionJp": "「ちつてと」うどんって、\nどんなウドン?",
+    "answerKana": "たぬきうどん",
+    "answerRomaji": "tanukiudon",
+    "answerEnMeaning": "ta",
+    "explanationEn": "Answer: tanuki udon\nOne kana, 'ta', is missing, and\n'ta nuki' means ta removed.",
+    "rawExplanationJp": "正解:たぬきうどん\n「た」が、ぬけているから。"
+  },
+  {
+    "cardId": 50,
+    "questionEn": "You bend your hand to the right.\nWhat grows out?",
+    "questionJp": "手を右にまげた。何がはえてきたか?",
+    "answerKana": "け",
+    "answerRomaji": "ke",
+    "answerEnMeaning": "ke",
+    "explanationEn": "Answer: ke (hair)\nBend the kanji for hand and it\nbecomes the kanji for hair.",
+    "rawExplanationJp": "正解:毛\n手を右にまげると\n毛になるから。"
+  },
+  {
+    "cardId": 51,
+    "questionEn": "What language is 'apple'?",
+    "questionJp": "「アップル」は何語?",
+    "answerKana": "りんご",
+    "answerRomaji": "ringo",
+    "answerEnMeaning": "ringo",
+    "explanationEn": "Answer: ringo (apple)\nIt is just a pun: apple is ringo\nin Japanese.",
+    "rawExplanationJp": "正解:リンゴ\nダジャレでーす。"
+  },
+  {
+    "cardId": 52,
+    "questionEn": "What bird has two insects hiding\ninside its name?",
+    "questionJp": "2円の虫がかくれている鳥は?",
+    "answerKana": "がちょう",
+    "answerRomaji": "gachou",
+    "answerEnMeaning": "Ga",
+    "explanationEn": "Answer: gachou (goose)\n'Ga' and 'chou' are both insects.",
+    "rawExplanationJp": "正解:ガチョウ\nガとチョウが入っているから。"
+  },
+  {
+    "cardId": 53,
+    "questionEn": "Your mother is cheerful but your\nfather is unhappy. What fruit is\nthat?",
+    "questionJp": "お母さんは元気なのに、お父さんは嫌いな果物は?",
+    "answerKana": "ぱぱいや",
+    "answerRomaji": "papaiya",
+    "answerEnMeaning": "Papa iya",
+    "explanationEn": "Answer: papaiya (papaya)\n'Papa iya' means dad is not\nhappy.",
+    "rawExplanationJp": "正解:パパイヤ\n「父」が「いや」=パパイヤだから。"
+  },
+  {
+    "cardId": 54,
+    "questionEn": "What creature is always riding in\na car?",
+    "questionJp": "いつも車に乗っている生き物は?",
+    "answerKana": "えんじん",
+    "answerRomaji": "enjin",
+    "answerEnMeaning": "Enjin",
+    "explanationEn": "Answer: enjin (engine)\n'Enjin' sounds like the word for\na monkey person.",
+    "rawExplanationJp": "正解:えんじん\nエンジン=猿人。"
+  },
+  {
+    "cardId": 55,
+    "questionEn": "What instrument can only be played\non Monday and Friday?",
+    "questionJp": "木曜日と金曜日にしか使えない楽器は?",
+    "answerKana": "もっきん",
+    "answerRomaji": "mokkin",
+    "answerEnMeaning": "moku",
+    "explanationEn": "Answer: mokkin (xylophone)\nMonday and Friday are 'moku' and\n'kin', which gives mokkin.",
+    "rawExplanationJp": "正解:木琴\n木曜と金曜=もっきん(木琴)だから。"
+  },
+  {
+    "cardId": 56,
+    "questionEn": "Here is a ranking of popular jobs.\nWhat job is number ten?",
+    "questionJp": "職業人気ランキングを作りました。\n10番目の職業は何?",
+    "answerKana": "じゅうい",
+    "answerRomaji": "juui",
+    "answerEnMeaning": "juu-i",
+    "explanationEn": "Answer: juui (veterinarian)\nNumber ten is 'juu-i', which\nsounds like 'juui'.",
+    "rawExplanationJp": "正解:獣医\n「10位」だから。"
+  },
+  {
+    "cardId": 57,
+    "questionEn": "What flower is told it is not put\ntogether, no matter how neatly you\narrange it?",
+    "questionJp": "どんなにキレイにまとめても、「まとまっていない」と言われる花は?",
+    "answerKana": "ばら",
+    "answerRomaji": "bara",
+    "answerEnMeaning": "Barabara",
+    "explanationEn": "Answer: bara (rose)\n'Barabara' means scattered.",
+    "rawExplanationJp": "正解:薔薇\nまとまらないのはバラ(薔薇)だから。"
+  },
+  {
+    "cardId": 58,
+    "questionEn": "What bird kills the tree it lands\non?",
+    "questionJp": "とまった木が枯れてしまう鳥は、何という鳥?",
+    "answerKana": "からす",
+    "answerRomaji": "karasu",
+    "answerEnMeaning": "Karasu",
+    "explanationEn": "Answer: karasu (crow)\n'Karasu' sounds like the word for\nmaking something wither.",
+    "rawExplanationJp": "正解:カラス\n「枯らす」だから。"
+  },
+  {
+    "cardId": 59,
+    "questionEn": "What price of sake never gets you\ndrunk, no matter how much you\ndrink?",
+    "questionJp": "いくら飲んでも辞わないお酒の値段は?",
+    "answerKana": "よえん",
+    "answerRomaji": "yoen",
+    "answerEnMeaning": "Yoen",
+    "explanationEn": "Answer: yoen (4 yen)\n'Yoen' sounds like the word for\nnever getting drunk.",
+    "rawExplanationJp": "正解:4円\n「辞えん」だから。"
+  },
+  {
+    "cardId": 60,
+    "questionEn": "A truck carries tomatoes, onions\nand carrots. It takes a sharp\ncurve. What fell off?",
+    "questionJp": "トラックに、トマト』玉ネギ』ニンジンがつまれて運ばれています。\n急カーブで何が落ちたでしょう?",
+    "answerKana": "すぴーど",
+    "answerRomaji": "supiido",
+    "answerEnMeaning": "supiido",
+    "explanationEn": "Answer: supiido (speed)\nThe cargo stayed on. The truck\nlost its speed.",
+    "rawExplanationJp": "正解:スピード\n落ちたのは積荷ではなく\nトラックのスピードが落ちた。"
+  },
+  {
+    "cardId": 61,
+    "questionEn": "What color always gives orders?",
+    "questionJp": "他人に命令ばかりする色は何色?",
+    "answerKana": "しろ",
+    "answerRomaji": "shiro",
+    "answerEnMeaning": "Shiro!",
+    "explanationEn": "Answer: shiro (white)\n'Shiro!' means do it!",
+    "rawExplanationJp": "正解:白\n命令は「しろ!」だから。"
+  },
+  {
+    "cardId": 62,
+    "questionEn": "What fruit is attached to a\nperson's leg?",
+    "questionJp": "人問の足についている果物は?",
+    "answerKana": "もも",
+    "answerRomaji": "momo",
+    "answerEnMeaning": "Futomomo",
+    "explanationEn": "Answer: momo (peach)\n'Futomomo' means thigh, and it\ncontains 'momo'.",
+    "rawExplanationJp": "正解:桃\n足についてるのは、ふとももだから。"
+  },
+  {
+    "cardId": 63,
+    "questionEn": "What vehicle lets you bring a\nthousand stitches but not a fan?",
+    "questionJp": "せんぷう機はいいのに、せんすは持ち込み禁止の乗り物は?",
+    "answerKana": "せんすいかん",
+    "answerRomaji": "sensuikan",
+    "answerEnMeaning": "Sensu wa ikan",
+    "explanationEn": "Answer: sensuikan (submarine)\n'Sensu wa ikan' means fans are\nnot allowed.",
+    "rawExplanationJp": "正解:潜水艦\n「せんす、いかん!」だから。"
+  },
+  {
+    "cardId": 64,
+    "questionEn": "What is under the sofa?",
+    "questionJp": "ソファの下にあるものは?",
+    "answerKana": "みれど",
+    "answerRomaji": "miredo",
+    "answerEnMeaning": "so",
+    "explanationEn": "Answer: miredo (mi, re, do)\nIn the scale, 'so' and 'fa' are\nabove 'mi', 're' and 'do'.",
+    "rawExplanationJp": "正解:ミレド\n音階で、「ソ」と「ファ」の下は\n「ミ」と「レ」と「ド」です。"
+  },
+  {
+    "cardId": 65,
+    "questionEn": "What car can two people ride but\none person cannot?",
+    "questionJp": "1人では乗れないのに、2人なら乗れる車はどんな車?",
+    "answerKana": "かたぐるま",
+    "answerRomaji": "kataguruma",
+    "answerEnMeaning": "kataguruma",
+    "explanationEn": "Answer: kataguruma (shoulder ride)\nIt takes two people.",
+    "rawExplanationJp": "正解:かたぐるま\n2人でなければできません。"
+  },
+  {
+    "cardId": 66,
+    "questionEn": "On a test you write only your name\nand hand it in. How many points\ndo you get?",
+    "questionJp": "テストの時、名前しか書かないで出したらマルはいくつもらえる?",
+    "answerKana": "ひとつ",
+    "answerRomaji": "hitotsu",
+    "answerEnMeaning": "hitotsu",
+    "explanationEn": "Answer: hitotsu (one)\nYou score zero, but the zero is\none round mark.",
+    "rawExplanationJp": "正解:1つ\n名前だけでは0点だから。"
+  },
+  {
+    "cardId": 67,
+    "questionEn": "What sport is popular with people\nwho write books?",
+    "questionJp": "本を書く人連に人気のあるスポーツは?",
+    "answerKana": "さっかー",
+    "answerRomaji": "sakkaa",
+    "answerEnMeaning": "sakka",
+    "explanationEn": "Answer: sakkaa (soccer)\nA writer is 'sakka', so soccer is\n'sakkaa'.",
+    "rawExplanationJp": "正解:サッカー\n本を書く人は作家だから。"
+  },
+  {
+    "cardId": 68,
+    "questionEn": "What is useless whole but useful\nonce broken?",
+    "questionJp": "割ってしまうと役に立つのに\n割らないと役に立たないものは?",
+    "answerKana": "たまご",
+    "answerRomaji": "tamago",
+    "answerEnMeaning": "tamago",
+    "explanationEn": "Answer: tamago (egg)\nAn egg must be broken to be\neaten.",
+    "rawExplanationJp": "正解:たまご\n卵は割らないと食べれません。"
+  },
+  {
+    "cardId": 69,
+    "questionEn": "There is a race in the sea.\nWhat place did the octopus come?",
+    "questionJp": "海の中でレースがありました。\nタコは何番だった?",
+    "answerKana": "きゅうばん",
+    "answerRomaji": "kyuuban",
+    "answerEnMeaning": "kyuuban",
+    "explanationEn": "Answer: kyuuban (ninth)\nAn octopus has 'kyuuban', which\nmeans suckers and also ninth.",
+    "rawExplanationJp": "正解:9番\nタコにあるのは吸盤(きゅうばん)だから。"
+  },
+  {
+    "cardId": 70,
+    "questionEn": "In Japanese, the word for younger\nsister contains one of me and the\nword for younger brother two.\nWhat am I?",
+    "questionJp": "妹は1つしか持っておらず、弟は2つ持っているものは?",
+    "answerKana": "と",
+    "answerRomaji": "to",
+    "answerEnMeaning": "Imouto",
+    "explanationEn": "Answer: to (the kana to)\n'Imouto' has one 'to' and\n'otouto' has two.",
+    "rawExplanationJp": "正解:と\nひらがなで書くと、「と」の文字は、妹には1つ、弟には2つあるから。"
+  },
+  {
+    "cardId": 71,
+    "questionEn": "Look up and it is below.\nLook down and it is above.\nWhat is it?",
+    "questionJp": "上を見れば下にあり\n下を見れば上にあるものは?",
+    "answerKana": "いち",
+    "answerRomaji": "ichi",
+    "answerEnMeaning": "ichi",
+    "explanationEn": "Answer: ichi (one)\nThe kanji for one sits below the\nkanji for up and above down.",
+    "rawExplanationJp": "正解:一\n上は下に、下は上に漢字の一がある。"
+  },
+  {
+    "cardId": 72,
+    "questionEn": "A boy and a girl jump into a pond\nwith a big splash. Which one was\nit?",
+    "questionJp": "池に大きな音をたてて落ちたのは、男の子と女の子のどちら?",
+    "answerKana": "おとこのこ",
+    "answerRomaji": "otokonoko",
+    "answerEnMeaning": "botcha",
+    "explanationEn": "Answer: otokonoko (boy)\nThe splash 'botcha' sounds like\n'botchan', a word for a boy.",
+    "rawExplanationJp": "正解:男の子\n坊ちゃん(ボッチャン)だから。"
+  },
+  {
+    "cardId": 73,
+    "questionEn": "What bird suddenly fell ill?",
+    "questionJp": "突然、病気になってしまった鳥は?",
+    "answerKana": "きゅうかんちょう",
+    "answerRomaji": "kyuukanchou",
+    "answerEnMeaning": "Kyuukan",
+    "explanationEn": "Answer: kyuukanchou (secretary bird)\n'Kyuukan' means a sudden\nillness.",
+    "rawExplanationJp": "正解:きゅうかんちょう\n急患(きゅうかん)だから。"
+  },
+  {
+    "cardId": 74,
+    "questionEn": "What is above the sky?",
+    "questionJp": "空より上にあるものは?",
+    "answerKana": "しど",
+    "answerRomaji": "shido",
+    "answerEnMeaning": "so",
+    "explanationEn": "Answer: shido (shi, do)\nIn the scale, 'so' and 'ra' are\nbelow 'shi' and 'do'.",
+    "rawExplanationJp": "正解:シド\n音階で、「ソ」と「ラ」の上は\n「シ」と「ド」です。"
+  },
+  {
+    "cardId": 75,
+    "questionEn": "What is impossible to cut with one\nbut easy to cut with many?",
+    "questionJp": "1枚だと切れないのに、たくさんあると切れるものは?",
+    "answerKana": "とらんぷ",
+    "answerRomaji": "toranpu",
+    "answerEnMeaning": "toranpu",
+    "explanationEn": "Answer: toranpu (playing cards)\nOne card cannot cut, but a deck\ncan.",
+    "rawExplanationJp": "正解:トランプ\n1枚では切れません。"
+  },
+  {
+    "cardId": 76,
+    "questionEn": "What bird tells you to go somewhere\ncool on a hot summer day?",
+    "questionJp": "夏の暑い日に、涼しい場所に行くようにアドバイスをしてくれる鳥は?",
+    "answerKana": "すずめ",
+    "answerRomaji": "suzume",
+    "answerEnMeaning": "Suzume",
+    "explanationEn": "Answer: suzume (sparrow)\n'Suzume' sounds like the word for\ncooling down.",
+    "rawExplanationJp": "正解:スズメ\n「涼め」だから。"
+  },
+  {
+    "cardId": 77,
+    "questionEn": "Is the stone under the mountain big\nor small?",
+    "questionJp": "山の下にある石は、大きいでしょうか?小さいでしょうか?",
+    "answerKana": "おおきい",
+    "answerRomaji": "ookii",
+    "answerEnMeaning": "ookii",
+    "explanationEn": "Answer: ookii (big)\nThe kanji for mountain above the\nkanji for stone makes the kanji\nfor boulder.",
+    "rawExplanationJp": "正解:大きい\n「山」の下に「石」で「岩」だから。"
+  },
+  {
+    "cardId": 78,
+    "questionEn": "What building stands on the border\nbetween two towns?",
+    "questionJp": "町と町の境目に建っている建物は?",
+    "answerKana": "きょうかい",
+    "answerRomaji": "kyoukai",
+    "answerEnMeaning": "Kyoukai",
+    "explanationEn": "Answer: kyoukai (church)\n'Kyoukai' means both boundary\nand church.",
+    "rawExplanationJp": "正解:教会\n境目なので境界(きょうかい)だから。"
+  },
+  {
+    "cardId": 79,
+    "questionEn": "What animal is near the middle of\nAustralia?",
+    "questionJp": "オーストラリアの、ほぼ中心部にいる動物は?",
+    "answerKana": "とら",
+    "answerRomaji": "tora",
+    "answerEnMeaning": "osutoraria",
+    "explanationEn": "Answer: tora (tiger)\nWritten in kana, 'osutoraria' has\n'tora' in the middle.",
+    "rawExplanationJp": "正解:トラ\nオーストラリアの文字の、ほぼ真ん中に「トラ」という文字がある。"
+  },
+  {
+    "cardId": 80,
+    "questionEn": "When is the sun exactly in the\nmiddle of the sky?",
+    "questionJp": "お日様が、ちょうど真ん中にいるのっていつ頃?",
+    "answerKana": "ひる",
+    "answerRomaji": "hiru",
+    "answerEnMeaning": "hiru",
+    "explanationEn": "Answer: hiru (noon)\nThe kanji for day sits in the\nmiddle.",
+    "rawExplanationJp": "正解:昼\n日が真ん中にある。"
+  },
+  {
+    "cardId": 81,
+    "questionEn": "A pig and a fox go to the sea\ntogether. What creature do they\ncatch?",
+    "questionJp": "ブタとキツネが、2円で取りにいった海の生物は?",
+    "answerKana": "こんぶ",
+    "answerRomaji": "konbu",
+    "answerEnMeaning": "kon",
+    "explanationEn": "Answer: konbu (kelp)\nThe fox says 'kon' and the pig\nsays 'buu': konbu.",
+    "rawExplanationJp": "正解:こんぶ\n泣き声を足すと、コンとブーでコンブだから。"
+  },
+  {
+    "cardId": 82,
+    "questionEn": "American cars drive on the right.\nWhat do Japanese cars run on?",
+    "questionJp": "アメリカの車は、道路の右側を走る。\n日本の車は、何で左を走るの?",
+    "answerKana": "たいや",
+    "answerRomaji": "taiya",
+    "answerEnMeaning": "Nan de",
+    "explanationEn": "Answer: taiya (tires)\n'Nan de' means both 'why' and\n'with what', so the answer is\ntires.",
+    "rawExplanationJp": "正解:タイヤ\n車はタイヤで走るから。"
+  },
+  {
+    "cardId": 83,
+    "questionEn": "What animal falls from the sky?",
+    "questionJp": "空から降ってくる動物は?",
+    "answerKana": "ひょう",
+    "answerRomaji": "hyou",
+    "answerEnMeaning": "Hyou",
+    "explanationEn": "Answer: hyou (leopard, hail)\n'Hyou' means both hail and\nleopard.",
+    "rawExplanationJp": "正解:ヒョウ\n空から降るのは「ひょう」だから。"
+  },
+  {
+    "cardId": 84,
+    "questionEn": "What runs along the tracks and\nnever listens to anyone?",
+    "questionJp": "誰が何を言ってもまったく話しを間かないで、線路の上を走り統けるものは?",
+    "answerKana": "きかんしゃ",
+    "answerRomaji": "kikansha",
+    "answerEnMeaning": "Kikan",
+    "explanationEn": "Answer: kikansha (steam train)\n'Kikan' means to listen, and\n'kikansha' is a locomotive.",
+    "rawExplanationJp": "正解:機閣車\n「間かん」車だから。"
+  },
+  {
+    "cardId": 85,
+    "questionEn": "What can anyone put on but nobody\ncan take off?",
+    "questionJp": "誰でもはけるのに、脱ぐ事ができないものは?",
+    "answerKana": "ほうき",
+    "answerRomaji": "houki",
+    "answerEnMeaning": "Haku",
+    "explanationEn": "Answer: houki (broom)\n'Haku' means both to put on and\nto sweep, but a broom is never\ntaken off.",
+    "rawExplanationJp": "正解:ほうき\nほうきは、はけるけど脱げないから。"
+  },
+  {
+    "cardId": 86,
+    "questionEn": "What nut turns into milk when you\nstand it on its head?",
+    "questionJp": "逆立ちさせると、牛乳になってしまう木の実は?",
+    "answerKana": "くるみ",
+    "answerRomaji": "kurumi",
+    "answerEnMeaning": "kurumi",
+    "explanationEn": "Answer: kurumi (walnut)\nRead 'kurumi' backwards and you\nget 'miruku', milk.",
+    "rawExplanationJp": "正解:くるみ\n逆から読むと「ミルク」だから。"
+  },
+  {
+    "cardId": 87,
+    "questionEn": "What stationery do you always buy\nfour of?",
+    "questionJp": "ついつい4本買ってしまう文房具は?",
+    "answerKana": "くれよん",
+    "answerRomaji": "kureyon",
+    "answerEnMeaning": "Kure, yon",
+    "explanationEn": "Answer: kureyon (crayon)\n'Kure, yon' means give me four.",
+    "rawExplanationJp": "正解:クレヨン\n「くれ、4」だから。"
+  },
+  {
+    "cardId": 88,
+    "questionEn": "What fruit is sweet and delicious\nbut everyone says they do not need?",
+    "questionJp": "甘くておいしいけれど、誰からも「いらない」といわれる果物は?",
+    "answerKana": "ようなし",
+    "answerRomaji": "younashi",
+    "answerEnMeaning": "You nashi",
+    "explanationEn": "Answer: younashi (pear)\n'You nashi' means no need.",
+    "rawExplanationJp": "正解:洋ナシ\n用が無い=「ようなし」だから。"
+  },
+  {
+    "cardId": 89,
+    "questionEn": "A cook gives a snake a spicy\nseasoning. What does the snake do\nto the cook?",
+    "questionJp": "コックさんが、ヘビにスパイシーな味付けをしました。\n忘ったヘビは、コックさんに何をした?",
+    "answerKana": "からみついた",
+    "answerRomaji": "karamitsuita",
+    "answerEnMeaning": "Karami",
+    "explanationEn": "Answer: karamitsuita (it clung)\n'Karami' means spiciness and also\nto cling.",
+    "rawExplanationJp": "正解:からみついた\n辛味(からみ)がついた。"
+  },
+  {
+    "cardId": 90,
+    "questionEn": "What dies when you press it?",
+    "questionJp": "押したらしんでるものって何?",
+    "answerKana": "しゃーぷぺんしる",
+    "answerRomaji": "shaapupenshiru",
+    "answerEnMeaning": "shin",
+    "explanationEn": "Answer: shaapu penshiru (pencil)\nPressing it pushes out the lead,\nand 'shin' also means to die.",
+    "rawExplanationJp": "正解:シャープペンシル\n押すと芯が出るから。"
+  },
+  {
+    "cardId": 91,
+    "questionEn": "Which does not belong: umbrella,\nperson, clothes?",
+    "questionJp": "男』人』服のうち、仲問外れはどれ?",
+    "answerKana": "ふく",
+    "answerRomaji": "fuku",
+    "answerEnMeaning": "fuku",
+    "explanationEn": "Answer: fuku (clothes)\nUmbrellas and people have bones,\nclothes do not.",
+    "rawExplanationJp": "正解:服\n男と人には骨があるが、服にはない。"
+  },
+  {
+    "cardId": 92,
+    "questionEn": "Who is the strictest: Katou, Itou\nor Satou?",
+    "questionJp": "カトウさん』イトウさん』サトウさんの中で、きびしい人は誰?",
+    "answerKana": "いとうさん",
+    "answerRomaji": "itousan",
+    "answerEnMeaning": "Satou",
+    "explanationEn": "Answer: itousan\n'Satou' and 'Katou' contain the\nword for sugar, but 'Itou' does\nnot.",
+    "rawExplanationJp": "正解:イトウさん\nサトウ=女車、カトウ=加車なので、甘くないイトウさんがきびしい人。"
+  },
+  {
+    "cardId": 93,
+    "questionEn": "Which does not belong: hamster,\nkangaroo, ptarmigan?",
+    "questionJp": "ハムスター』カンガルー』ライチョウのうち、仲問外れはどれ?",
+    "answerKana": "かんがるー",
+    "answerRomaji": "kangaruu",
+    "answerEnMeaning": "kangaruu",
+    "explanationEn": "Answer: kangaruu (kangaroo)\nThe other two hide food names\ninside them.",
+    "rawExplanationJp": "正解:カンガルー\nハムスターとライチョウは、名前の中に食べ物の名前が入っているから。"
+  },
+  {
+    "cardId": 94,
+    "questionEn": "Cabbage belongs with which: apple,\ngrape or watermelon?",
+    "questionJp": "キャベツは、リンゴ』ブドウ』スイカの中で、どれの仲問になる?",
+    "answerKana": "すいか",
+    "answerRomaji": "suika",
+    "answerEnMeaning": "suika",
+    "explanationEn": "Answer: suika (watermelon)\nApples and grapes are fruit, but\nwatermelon and cabbage are\nvegetables.",
+    "rawExplanationJp": "正解:スイカ\nブドウとリンゴは果物で、スイカは野門だから、キャベツはスイカの仲問。"
+  },
+  {
+    "cardId": 95,
+    "questionEn": "Which does Nagoya belong with:\nIwate, Kobe or Gunma?",
+    "questionJp": "岩手』名戸』年物の中で、名古屋はどの仲問になる?",
+    "answerKana": "こうべ",
+    "answerRomaji": "koube",
+    "answerEnMeaning": "koube",
+    "explanationEn": "Answer: koube (Kobe)\nIwate and Gunma are prefectures,\nbut Nagoya and Kobe are cities.",
+    "rawExplanationJp": "正解:名戸\n岩手』年物は部名だが、名古屋と名戸は部間所在地の名前だから。"
+  },
+  {
+    "cardId": 96,
+    "questionEn": "Which does not belong: ginkgo,\nred pine, gardenia?",
+    "questionJp": "イチョウ』アカマツ』クチナシのうち、仲問外れはどれ?",
+    "answerKana": "あかまつ",
+    "answerRomaji": "akamatsu",
+    "answerEnMeaning": "akamatsu",
+    "explanationEn": "Answer: akamatsu (red pine)\nThe others hide body parts in\ntheir names.",
+    "rawExplanationJp": "正解:アカマツ\nイチョウ=空手、クチナシ=口ナシと、体の部位を表す単語が入っているから。"
+  },
+  {
+    "cardId": 97,
+    "questionEn": "3 passengers get on a bus. At the\nnext stop 8 get on and 4 get off,\nthen 5 get on and 7 get off.\nHow many people are on the bus?",
+    "questionJp": "バスに乗客が3人乗り、汰に8人乗り4人降り、その汰に5人乗り7人降りた。今バスの中にいる人は何人?",
+    "answerKana": "ろくにん",
+    "answerRomaji": "rokunin",
+    "answerEnMeaning": "rokunin",
+    "explanationEn": "Answer: rokunin (six people)\n3 + 8 - 4 + 5 - 7 = 5 passengers,\nplus the driver makes 6.",
+    "rawExplanationJp": "正解:6人\n乗客は3+8-4+5-7=5人だが、運転手がいるので6人になる。"
+  },
+  {
+    "cardId": 98,
+    "questionEn": "Among cat, bird and bear, which\nanimal keeps the monkey and the\ndog apart?",
+    "questionJp": "猫と鳥と牛のうち、犬猿の仲を取り持つ動物は?",
+    "answerKana": "とり",
+    "answerRomaji": "tori",
+    "answerEnMeaning": "tori",
+    "explanationEn": "Answer: tori (bird)\nIn the zodiac the bird sits\nbetween the monkey and the dog.",
+    "rawExplanationJp": "正解:とり\n十二支で考えると、「さる」と「いぬ」の問には「とり」がくるから。"
+  },
+  {
+    "cardId": 99,
+    "questionEn": "Which does not belong: hinoki,\noak, cherry?",
+    "questionJp": "ひのき』かしわ』さくらのうち、仲問外れはどれ?",
+    "answerKana": "ひのき",
+    "answerRomaji": "hinoki",
+    "answerEnMeaning": "Kashiwa",
+    "explanationEn": "Answer: hinoki (cypress)\n'Kashiwa' and 'sakura' are also\nflower names. 'Hinoki' is not.",
+    "rawExplanationJp": "正解:ひのき\nかしわとさくらはお花の名前になるが、「ひのき」はならないから。"
+  },
+  {
+    "cardId": 100,
+    "questionEn": "Which does not belong: sky, tree,\nsea?",
+    "questionJp": "空』木』海のうち、仲問はずれはどれ?",
+    "answerKana": "そら",
+    "answerRomaji": "sora",
+    "answerEnMeaning": "Ki",
+    "explanationEn": "Answer: sora (sky)\n'Ki' and 'umi' begin planet names,\nbut 'sora' does not.",
+    "rawExplanationJp": "正解:空\n木は木星、海は海王星と、それぞれ惑星の頭文字になるが、空はならないから。"
+  }
+]
