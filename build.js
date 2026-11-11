@@ -70,8 +70,9 @@ fs.mkdirSync(patchDir, { recursive: true });
 
 const patchBuf = createBpsPatch(cleanRomBuf, patchedRomBuf, 'Detective Conan: Nerawareta Tantei English Translation');
 
-const stdPatchPath = path.join(patchDir, 'Detective_Conan_Nerawareta_Tantei_English_v1.0.bps');
+const stdPatchPath = path.join(patchDir, 'Detective_Conan_Nerawareta_Tantei_English_v1.1.bps');
 fs.writeFileSync(stdPatchPath, patchBuf);
+fs.writeFileSync(path.join(patchDir, 'Detective_Conan_Nerawareta_Tantei_English_v1.0.bps'), patchBuf);
 
 const softPatchPath = path.join(patchDir, 'Meitantei Conan - Nerawareta Tantei.bps');
 fs.writeFileSync(softPatchPath, patchBuf);
@@ -81,6 +82,7 @@ console.log('Built soft-patch: ' + softPatchPath);
 
 const docsPatchDir = path.join(__dirname, 'docs/patch');
 if (fs.existsSync(docsPatchDir)) {
+  fs.copyFileSync(stdPatchPath, path.join(docsPatchDir, 'Detective_Conan_Nerawareta_Tantei_English_v1.1.bps'));
   fs.copyFileSync(stdPatchPath, path.join(docsPatchDir, 'Detective_Conan_Nerawareta_Tantei_English_v1.0.bps'));
 }
 

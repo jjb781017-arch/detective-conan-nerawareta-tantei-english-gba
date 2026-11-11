@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Detective Conan: Nerawareta Tantei — The Targeted Detective</h1>
-  <i>English fan translation patch v1.0.</i><br/>
+  <i>English fan translation patch v1.1.0.</i><br/>
   Original title: <i>名探偵コナン 狙われた探偵</i> (<i>Meitantei Conan: Nerawareta Tantei</i>)
 </p>
 
@@ -12,7 +12,9 @@
 
 Full source repository and English translation patch for *Detective Conan: Nerawareta Tantei — The Targeted Detective* for the Game Boy Advance.
 
-This repository contains my translations for the game, including some reworked graphic assets (cutscenes, banners, UI screens, gadget descriptions), dialogue scripts and  dual-character font generation.
+This repository contains my translations for the game, including reworked graphic assets (cutscenes, banners, UI screens, gadget descriptions), dialogue scripts, and a fully integrated dual-character dynamic font engine.
+
+* **Dual-Glyph Dynamic Font Engine (v1.1.0 Update):** Integrated a dynamic 2-character pairing renderer that packs two 5×9 English letters side-by-side inside each native 12×12 GBA tile slot. This doubles per-line capacity from 17 up to 34 characters and eliminates fragmented multi-box sentences across all 6 cases.
 
 ---
 
@@ -21,7 +23,7 @@ This repository contains my translations for the game, including some reworked g
 | File | Size | Description |
 | :--- | :--- | :--- |
 | **Original Japanese ROM** | 8 MiB | Clean, unheadered Japanese ROM of *Meitantei Conan - Nerawareta Tantei* (`.gba`). |
-| **English BPS Patch** | 8.03 MiB | [**Download Detective_Conan_Nerawareta_Tantei_English_v1.0.bps**](https://github.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/releases/latest/download/Detective_Conan_Nerawareta_Tantei_English_v1.0.bps) |
+| **English BPS Patch** | 8.03 MiB | [**Download Detective_Conan_Nerawareta_Tantei_English_v1.1.bps**](https://github.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/releases/latest/download/Detective_Conan_Nerawareta_Tantei_English_v1.1.bps) |
 | **Patched English ROM** | 16 MiB | `Detective Conan - English Translated.gba` (generated via patcher or build script). |
 
 > [!NOTE]
@@ -57,7 +59,7 @@ You can patch the game through GBA emulators through soft-patching without modif
 You can also apply the patch through third-party online tools:
 1. Open an online BPS patcher (like [Romhacking.net Patcher](https://www.romhacking.net/patch/) or [Hack64 Patcher](https://hack64.net/tools/patcher.php)).
 2. Select your clean Japanese ROM (`.gba`) as the Source ROM.
-3. Select the [**`Detective_Conan_Nerawareta_Tantei_English_v1.0.bps`**](https://github.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/releases/latest/download/Detective_Conan_Nerawareta_Tantei_English_v1.0.bps) patch file.
+3. Select the [**`Detective_Conan_Nerawareta_Tantei_English_v1.1.bps`**](https://github.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/releases/latest/download/Detective_Conan_Nerawareta_Tantei_English_v1.1.bps) patch file.
 4. Click Apply / Download to receive your patched English ROM.
 
 *Alternative for Linux / macOS terminal:* Run `./patch/apply-patch.sh path/to/clean_rom.gba`.
@@ -84,15 +86,11 @@ You can also apply the patch through third-party online tools:
    * Currently long character names (such as `INSPECTOR MEGURE`, `MITSUHIKO`) are cut off. This is because in the original engine, character names were written in kanji or katakana and were only 2 to 4 full-width glyphs long (e.g. 目暮, 阿笠). The game's nameplate drawer writes directly into the dialogue text cursor on Line 1 ($x = 8 + 12 \times \text{slots}$). English names are significantly longer in letter count, shifting the starting cursor far to the right and leaving as few as 16–18 characters for dialogue on that line.
    * So, refactoring the engine's nameplate rendering hook to decouple nameplate drawing from the dialogue cursor, allowing Line 1 to use its full horizontal width regardless of name length might be the solution.
 
-3. **Dual-Glyph Font Table**
-   * As for the dialogs, the GBA engine's native text renderer draws fixed 12×12 pixel tile slots. With 1 character per slot, the 240px GBA screen fits only ~17 English letters per line. Because of this, only few letters get shown and leads to  fragmented reading and takes so many boxes to show a sentence.
-   * A solution I came up for this is to implement a dynamic pair-glyph system that packs two 5×9 pixel English letters side-by-side inside each single 12×12 GBA tile slot (with a 1px spacer). This doubles the per-line character capacity from 17 up to 34 characters per line.
-
-4. **Minigame Tutorial Screens**
+3. **Minigame Tutorial Screens**
    * The tutorial screens for the minigames are currently placeholders with early rough drafts that need cleanup, better fonts and polish.
    * While the rules and button instructions are translated and fully readable so players can clear the cases, the graphic layouts, diagram labels, and typography are early rough drafts that need visual cleanup, formatting polish, and proper alignment.
 
-5. **Untranslated Visual Assets**
+4. **Untranslated Visual Assets**
    * There are still a handful of assets that need translation in the game.
    * If you want to update or add more, you can find dimension requirements in [`assets/needs_translation/`](assets/needs_translation/).
 
